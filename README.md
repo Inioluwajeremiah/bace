@@ -176,21 +176,15 @@ def generate_mordred_descriptors(smile_molecules):
     mordred_descriptors = calc.pandas(ligands)
     
     return mord
+```
 
 ## 1. Data Loading and Preprocessing
 
 ### 1.1 Reading the Data
-```python
-import numpy as np
-import pandas as pd
-import tensorflow as tf
-from tensorflow import keras
-from tensorflow.keras import layers
-import matplotlib.pyplot as plt
 
 # Read the data containing molecular descriptors and Ki values
 bace_data_mordred = pd.read_csv('combined_bace_inhibitors_ki_and_rdkit_descriptors.csv')
-```
+
 
 ## 2. Data Normalization and Feature Selection
 
