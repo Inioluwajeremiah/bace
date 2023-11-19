@@ -1,0 +1,462 @@
+BindingDB Reactant_set_id,Ligand SMILES,BindingDB MonomerID,BindingDB Ligand Name,Target Name,Ki (nM)
+50183297,OC(=O)c1cc(\C=C\c2ccc(\C=C\c3ccc(O)c(c3)C(O)=O)c(Br)c2)ccc1O,50101410,"(trans,trans)-1-bromo-2,5-bis-(3-hydroxycarbonyl-4-hydroxy)styrylbenzene::5-[2-bromo-4-(3-carboxy-4-hydroxyphenethyl)phenethyl]-2-hydroxybenzoic acid::CHEMBL74704",Amyloid-beta precursor protein,0.11
+50183299,OC(=O)c1cc(\C=C/c2ccc(\C=C/c3ccc(O)c(c3)C(O)=O)c(Br)c2)ccc1O,50101411,5-[2-bromo-4-(3-carboxy-4-hydroxyphenethyl)phenethyl]-2-hydroxybenzoic acid::CHEMBL76112,Amyloid-beta precursor protein,0.13
+50183298,OC(=O)c1cc(ccc1O)N=Nc1ccc(cc1)-c1ccc(cc1)N=Nc1ccc(O)c(c1)C(O)=O,50100131,5-(Biphenyl-4-ylazo)-bis (2-hydroxy-benzoic acid)(Chrysamine G)::Bis(2-Hydroxy-5-phenylazo-benzoic acid)::CHEMBL300172::chrysamine -G::chrysamine G,Amyloid-beta precursor protein,0.14
+50180597,OC(=O)c1cc(ccc1O)N=Nc1ccc(cc1)-c1ccc(cc1)N=Nc1ccc(O)c(c1)C(O)=O,50100131,5-(Biphenyl-4-ylazo)-bis (2-hydroxy-benzoic acid)(Chrysamine G)::Bis(2-Hydroxy-5-phenylazo-benzoic acid)::CHEMBL300172::chrysamine -G::chrysamine G,Amyloid-beta precursor protein,0.14
+50840919,OC(=O)c1cc(ccc1O)N=Nc1ccc(cc1)-c1ccc(cc1)N=Nc1ccc(O)c(c1)C(O)=O,50100131,5-(Biphenyl-4-ylazo)-bis (2-hydroxy-benzoic acid)(Chrysamine G)::Bis(2-Hydroxy-5-phenylazo-benzoic acid)::CHEMBL300172::chrysamine -G::chrysamine G,Amyloid-beta precursor protein,0.16
+50180603,COc1ccc(\C=C\c2ccc(\C=C\c3ccc(OC)c(c3)C(O)=O)c(I)c2)cc1C(O)=O,50100135,"(E,E)-1-iodo-2,5-bis-(3-hydroxycarbonyl-4-methoxy)styrylbenzene::5-[2-{4-[2-(3-carboxy-4-methoxyphenyl)-(E)-1-ethenyl]-2-iodophenyl}-(E)-1-ethenyl]-2-methoxybenzoic acid::CHEMBL292910",Amyloid-beta precursor protein,0.17
+50183301,OC(=O)c1cc(\C=C\c2ccc(\C=C/c3ccc(O)c(c3)C(O)=O)c(Br)c2)ccc1O,50101413,5-[2-bromo-4-(3-carboxy-4-hydroxyphenethyl)phenethyl]-2-hydroxybenzoic acid::CHEMBL305634,Amyloid-beta precursor protein,0.19
+51177579,CNc1ccc(cc1)-c1nc2ccc(F)cc2s1,50483880,CHEMBL1774642,Amyloid-beta precursor protein,0.2
+50840922,COc1cc(C=CC(=O)CC(=O)C=Cc2ccc(O)c(OC)c2)ccc1O,50067040,"((E,E)-1,7-bis(4-hydroxy-3-methoxyphenyl)-1,6-heptadiene-3,5-dione)::(1E,4Z,6E)-5-Hydroxy-1,7-bis-(4-hydroxy-3-methoxy-phenyl)-hepta-1,4,6-trien-3-one::(1E,4Z,6E)-5-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,4,6-trien-3-one::(1E,6E)-1,7-Bis-(4-hydroxy-3-methoxy-phenyl)-hepta-1,6-diene-3,5-dione::(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)-1,6-heptadiene-3,5-dione::(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione::(1Z,6E)-1,7-Bis-(4-hydroxy-3-methoxy-phenyl)-hepta-1,6-diene-3,5-dione::(E,E)-1,7-Bis(4-hydroxy-3-methoxyphenyl)-1,6-heptadiene-3,5-dione::1,7-Bis-(4-hydroxy-3-methoxy-phenyl)-hepta-1,6-diene-3,5-dione::1,7-bis(4-hydroxy-3-methoxyphenyl)-1,6-heptadien-3,5-dione::1,7-bis(4-hydroxy-3-methoxyphenyl)-1,6-heptadiene-3,5-dione::1,7-bis(4-hydroxy-3-methoxyphenyl)1,6-heptadiene-3,5-dione::1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione::1,7-bis-(4-hydroxy-3-methoxyphenyl)-1,6-heptadiene-3,5-dione::5-Hydroxy-1,7-bis-(4-hydroxy-3-methoxy-phenyl)-hepta-1,4,6-trien-3-one::5-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-1,4,6-heptatrien-3-one::CHEMBL116438::cid_5281767::curcumin I::curcumine::curcurmin::diferuloylmethane",Amyloid-beta precursor protein,0.208
+50183300,OC(=O)c1cc(\C=C/c2ccc(\C=C\c3ccc(O)c(c3)C(O)=O)c(Br)c2)ccc1O,50101412,5-[2-bromo-4-(3-carboxy-4-hydroxyphenethyl)phenethyl]-2-hydroxybenzoic acid::CHEMBL74348,Amyloid-beta precursor protein,0.27
+51177582,CN(C)c1ccc(cc1)-c1nc2ccc(F)cc2s1,50483881,CHEMBL1774643,Amyloid-beta precursor protein,0.3
+50180590,OC(=O)c1cc(ccc1O)N=Nc1ccc(cc1)-c1ccc(cc1)N=Nc1ccc(O)c(c1)C(O)=O,50100131,5-(Biphenyl-4-ylazo)-bis (2-hydroxy-benzoic acid)(Chrysamine G)::Bis(2-Hydroxy-5-phenylazo-benzoic acid)::CHEMBL300172::chrysamine -G::chrysamine G,Amyloid-beta precursor protein,0.4
+51180265,CNc1ccc(cc1F)-c1nc2ccc(O)cc2s1,50481120,Flutemetamol::[3H]-Flutemetamol,Amyloid-beta precursor protein,0.7
+50344541,CNc1ccc(cc1)-c1cc2cc(O)ccc2o1,50185948,5-hydroxy-2-(4-methylaminophenyl)benzofuran::CHEMBL204829,Amyloid-beta precursor protein,0.7
+51172123,CNc1ccc(cc1F)-c1nc2ccc(O)cc2s1,50481120,Flutemetamol::[3H]-Flutemetamol,Amyloid-beta precursor protein,0.74
+51179887,CNc1ccc(cc1F)-c1nc2ccc(O)cc2s1,50481120,Flutemetamol::[3H]-Flutemetamol,Amyloid-beta precursor protein,0.74
+51180264,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,0.8
+50180616,COc1ccc(\C=C\c2ccc(\C=C\c3ccc(OC)c(c3)C(O)=O)c(I)c2)cc1C(O)=O,50100135,"(E,E)-1-iodo-2,5-bis-(3-hydroxycarbonyl-4-methoxy)styrylbenzene::5-[2-{4-[2-(3-carboxy-4-methoxyphenyl)-(E)-1-ethenyl]-2-iodophenyl}-(E)-1-ethenyl]-2-methoxybenzoic acid::CHEMBL292910",Amyloid-beta precursor protein,0.8
+50180593,CN(C)c1ccc(cc1)-c1nc2ccc(Br)cc2s1,50100133,CHEMBL55401::[4-(6-Bromo-benzothiazol-2-yl)-phenyl]-dimethyl-amine,Amyloid-beta precursor protein,0.8
+51172147,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,0.87
+51179876,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,0.87
+51196556,CN(C)c1ccc(cc1)-c1cnc2cc(OCCF)ccc2n1,50492526,CHEMBL2407616,Amyloid-beta precursor protein,0.895
+51196551,CN(C)c1ccc(cc1)-c1cnc2cc(OCC[18F])ccc2n1,50492522,CHEMBL2407622,Amyloid-beta precursor protein,0.895
+51172886,CN1C(=O)c2ccc(Nc3ccc(I)cc3)cc2C1=O,50481609,CHEMBL610504,Amyloid-beta precursor protein,0.9
+50222458,CN(C)c1ccc(cc1)-c1nc2ccc(I)cc2s1,50100130,"4-(6-Iodobenzo[d]thiazol-2-yl)-N,N-dimethylaniline::CHEMBL55380::[4-(6-Iodo-benzothiazol-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,0.9
+50180589,CN(C)c1ccc(cc1)-c1nc2ccc(I)cc2s1,50100130,"4-(6-Iodobenzo[d]thiazol-2-yl)-N,N-dimethylaniline::CHEMBL55380::[4-(6-Iodo-benzothiazol-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,0.9
+50833277,CN(C)c1ccc(\C=C\c2ccc(O)cc2)cc1,50173640,4-[(E)-2-(4-Dimethylamino-phenyl)-vinyl]-phenol::CHEMBL198598,Amyloid-beta precursor protein,1.1
+51162696,CNc1ccc(cc1)C#Cc1ccc(OCCOCCF)cc1,50476303,CHEMBL227521,Amyloid-beta precursor protein,1.2
+50344591,CNc1ccc(\C=C\c2ccc(O)cc2)cc1,50173647,(E)-4-(4-(methylamino)styryl)phenol::4-(4-(methylamino)styryl)phenol::4-N-methylamino-4'-hydroxystilbene::4-[(E)-2-(4-Methylamino-phenyl)-vinyl]-phenol::CHEMBL381642::SB-13::[3H]-4-(4-(methylamino)styryl)phenol,Amyloid-beta precursor protein,1.2
+50833284,CNc1ccc(\C=C\c2ccc(O)cc2)cc1,50173647,(E)-4-(4-(methylamino)styryl)phenol::4-(4-(methylamino)styryl)phenol::4-N-methylamino-4'-hydroxystilbene::4-[(E)-2-(4-Methylamino-phenyl)-vinyl]-phenol::CHEMBL381642::SB-13::[3H]-4-(4-(methylamino)styryl)phenol,Amyloid-beta precursor protein,1.2
+51180958,CNc1ccc(\C=C\c2ccc(O)cc2)cc1,50173647,(E)-4-(4-(methylamino)styryl)phenol::4-(4-(methylamino)styryl)phenol::4-N-methylamino-4'-hydroxystilbene::4-[(E)-2-(4-Methylamino-phenyl)-vinyl]-phenol::CHEMBL381642::SB-13::[3H]-4-(4-(methylamino)styryl)phenol,Amyloid-beta precursor protein,1.2
+51172148,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,1.3
+51172142,CNc1ccc(cc1)-c1nc2ccccc2s1,50109052,"(4-Benzothiazol-2-yl-phenyl)-methyl-amine::4-(benzo[d]thiazol-2-yl)-N-methylaniline::CHEMBL93334::US10137210, Example [N-methyl-11C]BTA-1",Amyloid-beta precursor protein,1.3
+51179878,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,1.3
+50344540,CNc1ccc(cc1)-c1cc2cc(OC)ccc2o1,50185947,5-methoxy-2-(4-methylaminophenyl)benzofuran::CHEMBL208212,Amyloid-beta precursor protein,1.3
+51169189,FCCOCCOCCOc1ccc(cc1)C#Cc1ccc2[nH]ccc2c1,50479453,CHEMBL519255,Amyloid-beta precursor protein,1.5
+51162689,CNc1ccc(cc1)C#Cc1ccc(O)cc1,50476296,CHEMBL228033,Amyloid-beta precursor protein,1.5
+51163807,CNc1ccc(cc1)C#Cc1cnc(OCCO)c(Br)c1,50476855,CHEMBL232112,Amyloid-beta precursor protein,1.6
+50180615,CN1CCN(CC1)c1ccc(cc1)-c1nc2ccc(Br)cc2s1,50100132,6-Bromo-2-[4-(4-methyl-piperazin-1-yl)-phenyl]-benzothiazole::CHEMBL55536,Amyloid-beta precursor protein,1.6
+51177580,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,1.6
+51172122,CNc1ccc(cn1)-c1nc2ccc(O)cc2s1,50481119,AZD-2184::CHEMBL570378,Amyloid-beta precursor protein,1.7
+50236165,CNc1ccc(cc1)-c1nc2ccc(Br)cc2s1,50129794,CHEMBL328660::[4-(6-Bromo-benzothiazol-2-yl)-phenyl]-methyl-amine,Amyloid-beta precursor protein,1.7
+51162686,CNc1ccc(cc1)C#Cc1ccc(OCCOCCOCCF)cc1,50476293,CHEMBL227495,Amyloid-beta precursor protein,1.9
+50236148,COc1ccc2nc(sc2c1)-c1ccc(cc1)N(C)C,50129784,"4-(6-Methoxybenzo[d]thiazol-2-yl)-N,N-dimethylaniline::CHEMBL328430::[4-(6-Methoxy-benzothiazol-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,1.9
+50180608,CN(C)c1ccc(cc1)-c1nc2ccc(Br)cc2s1,50100133,CHEMBL55401::[4-(6-Bromo-benzothiazol-2-yl)-phenyl]-dimethyl-amine,Amyloid-beta precursor protein,1.9
+51172126,CN(C)c1ccc(\C=C\c2ccc(I)cc2)cc1,50481123,CHEMBL570610,Amyloid-beta precursor protein,2
+51179402,CNc1ccc(cc1)-c1cn2c(n1)sc1cc(OCC[18F])ccc21,50484947,CHEMBL2017621,Amyloid-beta precursor protein,2.1
+51195493,CNc1ccc(\C=C\c2ccc(OCCOCCOCC[18F])cc2)cc1,50485236,BAY-949172::CHEBI:79033::FLORBETABEN F18::Florbetaben (18f)::Florbetaben F-18::Neuraceq::UNII-TLA7312TOI,Amyloid-beta precursor protein,2.2
+51169325,COc1ccc2nc(sc2c1)-c1ccc(F)cc1,50293110,"2-(4-Fluorophenyl)-6-methoxybenzo[d]thiazole::6-Methoxy-2-(4'-fluorophenyl)-1,3-benzothiazole::CHEMBL490083",Amyloid-beta precursor protein,2.2
+51211155,Nc1ccccc1OCc1ccc(I)cc1,50497742,CHEMBL3314336,Amyloid-beta precursor protein,1023
+51211171,Nc1ccccc1OCc1ccc(I)cc1,50497742,CHEMBL3314336,Amyloid-beta precursor protein,1028
+51195486,Cn1c(cc2ccccc12)-c1ccc(NCCF)cc1,50492181,CHEMBL2397725,Amyloid-beta precursor protein,1030
+51195492,Cn1c(cc2ccccc12)-c1ccc(NCCCF)cc1,50492185,CHEMBL2397726,Amyloid-beta precursor protein,1098
+51196555,Nc1ccc(cc1)-c1cnc2ccc(OCCF)cc2n1,50492525,CHEMBL2407626,Amyloid-beta precursor protein,1180
+51211163,Nc1cccc(OCc2ccc(I)cc2)c1,50497741,CHEMBL3314335,Amyloid-beta precursor protein,1535
+51211154,Nc1cccc(OCc2ccc(I)cc2)c1,50497741,CHEMBL3314335,Amyloid-beta precursor protein,1549
+51163408,CNc1ccc(cc1)-c1cn2cc(SCC(N)=O)ccc2n1,50476654,CHEMBL241985,Amyloid-beta precursor protein,1840
+51211151,Oc1ccccc1OCc1ccc(I)cc1,50497738,CHEMBL3314327,Amyloid-beta precursor protein,2818
+51211159,Oc1ccccc1OCc1ccc(I)cc1,50497738,CHEMBL3314327,Amyloid-beta precursor protein,2831
+348219,O=c1ccc2nc3ccc(OC#C)cc3oc2c1,195600,"US9216974, WC-5-1",Amyloid-beta precursor protein,4613
+348217,COc1ccc2nc3ccc(=O)cc3oc2c1,195584,"US9216974, Methoxy-resorufin",Amyloid-beta precursor protein,4675
+51211166,COc1ccccc1OCc1ccc(I)cc1,50497744,CHEMBL3314324,Amyloid-beta precursor protein,5129
+51211176,COc1ccccc1OCc1ccc(I)cc1,50497744,CHEMBL3314324,Amyloid-beta precursor protein,5165
+51211143,CNc1ccccc1OCc1ccc(I)cc1,50497734,CHEMBL3314339,Amyloid-beta precursor protein,20662
+51211156,CNc1ccccc1OCc1ccc(I)cc1,50497734,CHEMBL3314339,Amyloid-beta precursor protein,20893
+51180959,CNc1ccc(\C=C\c2ccc(OCCOCCOCC[18F])cc2)cc1,50485236,BAY-949172::CHEBI:79033::FLORBETABEN F18::Florbetaben (18f)::Florbetaben F-18::Neuraceq::UNII-TLA7312TOI,Amyloid-beta precursor protein,2.2
+51180267,CNc1ccc(\C=C\c2ccc(OCCOCCOCC[18F])cc2)cc1,50485236,BAY-949172::CHEBI:79033::FLORBETABEN F18::Florbetaben (18f)::Florbetaben F-18::Neuraceq::UNII-TLA7312TOI,Amyloid-beta precursor protein,2.2
+51172143,CNc1ccc(\C=C\c2ccc(OCCCCCCF)cc2)cc1,50481133,BAY-94-9172::CHEMBL566723,Amyloid-beta precursor protein,2.2
+51179882,CNc1ccc(\C=C\c2ccc(OCCOCCOCC[18F])cc2)cc1,50485236,BAY-949172::CHEBI:79033::FLORBETABEN F18::Florbetaben (18f)::Florbetaben F-18::Neuraceq::UNII-TLA7312TOI,Amyloid-beta precursor protein,2.2
+50180595,CN(C)c1ccc(cc1)-c1nc2ccc(I)cc2s1,50100130,"4-(6-Iodobenzo[d]thiazol-2-yl)-N,N-dimethylaniline::CHEMBL55380::[4-(6-Iodo-benzothiazol-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,2.2
+582011,CN(C)c1ccc(cc1)-c1nc2ccc(CO)cc2s1,303149,"US10137210, Example [N-methyl-11C]6-MeO-BTA-2",Amyloid-beta precursor protein,2.3
+50344538,COc1ccc2oc(cc2c1)-c1ccc(N)cc1,50185946,5-methoxy-2-(4-aminophenyl)benzofuran::CHEMBL205221,Amyloid-beta precursor protein,2.3
+51179879,CNc1ccc(-c2nc3ccc(O)cc3s2)c([18F])n1,50485233,AZD-4694::CHEMBL2042123,Amyloid-beta precursor protein,2.3
+51172136,CN(C)c1ccc(\C=C\c2nc3ccccc3s2)cc1,52401,"4-[(E)-2-(1,3-benzothiazol-2-yl)ethenyl]-N,N-dimethyl-aniline::4-[(E)-2-(1,3-benzothiazol-2-yl)ethenyl]-N,N-dimethylaniline::4-[2-(1,3-benzothiazol-2-yl)vinyl]-N,N-dimethylaniline::CHEMBL565657::MLS000573782::SMR000184633::[4-[(E)-2-(1,3-benzothiazol-2-yl)vinyl]phenyl]-dimethyl-amine::cid_5378081",Amyloid-beta precursor protein,2.3
+51172137,CNc1ccc(\C=C\c2ccc(O)cc2)cc1,50173647,(E)-4-(4-(methylamino)styryl)phenol::4-(4-(methylamino)styryl)phenol::4-N-methylamino-4'-hydroxystilbene::4-[(E)-2-(4-Methylamino-phenyl)-vinyl]-phenol::CHEMBL381642::SB-13::[3H]-4-(4-(methylamino)styryl)phenol,Amyloid-beta precursor protein,2.4
+51169326,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,2.8
+51171817,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,2.8
+50344544,CN(C)c1ccc(cc1)-c1cc2cc(O)ccc2o1,50185950,5-hydroxy-2-(4-dimethylaminophenyl)benzofuran::CHEMBL204414,Amyloid-beta precursor protein,2.8
+50344603,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,2.8
+50833276,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,2.8
+51170550,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,2.8
+51169501,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,2.8
+51162692,COc1ccc(cc1)C#Cc1ccc(O)cc1,50476299,CHEMBL228034,Amyloid-beta precursor protein,2.9
+50236163,CN(C)c1ccc(cc1)-c1nc2ccc(Br)cc2s1,50100133,CHEMBL55401::[4-(6-Bromo-benzothiazol-2-yl)-phenyl]-dimethyl-amine,Amyloid-beta precursor protein,2.9
+51179398,CNc1ccc(\C=C\c2ccc(OCCOCCOCC[18F])nc2)cc1,50484946,(18F)AV-45::18F-AV-45::AV-45 F-18::Amyvid::CHEBI:66880::Florbetapir (18f)::Florbetapir F 18,Amyloid-beta precursor protein,2.9
+51172124,CNc1ccc(\C=C\c2ccc(OCCCCCCF)nc2)cc1,50481121,AV-45::Florbetapir F-18,Amyloid-beta precursor protein,2.9
+51180266,CNc1ccc(\C=C\c2ccc(OCCOCCOCC[18F])nc2)cc1,50484946,(18F)AV-45::18F-AV-45::AV-45 F-18::Amyvid::CHEBI:66880::Florbetapir (18f)::Florbetapir F 18,Amyloid-beta precursor protein,2.9
+51172129,CNc1ccc(\C=C\c2ccc(OCCCCF)cc2)cc1,50481126,CHEMBL566709,Amyloid-beta precursor protein,2.9
+51162691,COc1ccc(cc1)C#Cc1ccc(N)cc1,50476298,CHEMBL223285,Amyloid-beta precursor protein,2.9
+51162680,CN(C)c1ccc(cc1)C#Cc1ccc(OCCOCCOCCF)cc1,50476287,CHEMBL224096,Amyloid-beta precursor protein,2.9
+51180957,CNc1ccc(\C=C\c2ccc(OCCOCCOCC[18F])nc2)cc1,50484946,(18F)AV-45::18F-AV-45::AV-45 F-18::Amyvid::CHEBI:66880::Florbetapir (18f)::Florbetapir F 18,Amyloid-beta precursor protein,2.9
+51179886,CNc1ccc(\C=C\c2ccc(OCCOCCOCC[18F])nc2)cc1,50484946,(18F)AV-45::18F-AV-45::AV-45 F-18::Amyvid::CHEBI:66880::Florbetapir (18f)::Florbetapir F 18,Amyloid-beta precursor protein,2.9
+51195494,CNc1ccc(\C=C\c2ccc(OCCOCCOCC[18F])nc2)cc1,50484946,(18F)AV-45::18F-AV-45::AV-45 F-18::Amyvid::CHEBI:66880::Florbetapir (18f)::Florbetapir F 18,Amyloid-beta precursor protein,2.9
+50973589,Oc1ccc(cc1)-c1cc2ccccc2s1,50276892,CHEMBL4167943,Amyloid-beta precursor protein,3
+51162685,CNc1ccc(cc1)C#Cc1ccc(OCCOCCO)cc1,50476292,CHEMBL227577,Amyloid-beta precursor protein,3.1
+51179401,CNc1ccc(cc1)-c1cn2c(n1)sc1cc(OCC[18F])ccc21,50484947,CHEMBL2017621,Amyloid-beta precursor protein,3.2
+51179880,CNc1ccc(\C=C\c2ccc(OCCOCCOCCOCCOCC(COCCOCCOCCOCCOc3ccc(\C=C\c4ccc(NC)cc4)cn3)OCCF)nc2)cc1,50485234,CHEMBL2042124,Amyloid-beta precursor protein,3.2
+51179885,CNc1ccc(\C=C\c2ccc(O)cc2)cc1,50173647,(E)-4-(4-(methylamino)styryl)phenol::4-(4-(methylamino)styryl)phenol::4-N-methylamino-4'-hydroxystilbene::4-[(E)-2-(4-Methylamino-phenyl)-vinyl]-phenol::CHEMBL381642::SB-13::[3H]-4-(4-(methylamino)styryl)phenol,Amyloid-beta precursor protein,3.2
+582016,CNc1ccc(cc1I)-c1nc2ccc(O)cc2s1,303166,"US10137210, Example 00026",Amyloid-beta precursor protein,3.22
+51162694,CN(C)c1ccc(cc1)C#Cc1ccc(OCCOCCOCCO)cc1,50476301,CHEMBL413436,Amyloid-beta precursor protein,3.4
+51176669,CNc1ccc(cc1)-c1cn2c(n1)sc1cc(OC)ccc21,50483423,CHEMBL1671878,Amyloid-beta precursor protein,3.5
+51162668,CN(C)c1ccc(\C=C\c2cnc(OCCO)c(Br)c2)cc1,50476276,CHEMBL390561,Amyloid-beta precursor protein,3.6
+50973670,Oc1ccc(cc1)-c1cc2ccccc2s1,50276892,CHEMBL4167943,Amyloid-beta precursor protein,3.7
+51162693,CN(C)c1ccc(cc1)C#Cc1ccc(OCCOCCO)cc1,50476300,CHEMBL389671,Amyloid-beta precursor protein,3.8
+51171818,CN(C)c1ccc2nc(sc2c1)-c1ccc(F)cc1,50480917,CHEMBL566354,Amyloid-beta precursor protein,3.8
+51172884,CN1C(=O)c2ccc(Nc3ccc(Br)cc3)cc2C1=O,50481608,CHEMBL598081,Amyloid-beta precursor protein,3.8
+51179881,CNc1ccc(\C=C\c2ccc(OCCOCCOCCOCCOCCOCCOCC(COCCOCCOCCOCCOCCOCCOc3ccc(\C=C\c4ccc(NC)cc4)cn3)OCCF)nc2)cc1,50485235,CHEMBL2042245,Amyloid-beta precursor protein,3.9
+50330486,Oc1ccc(cc1)-c1ccc(s1)-c1ccc(NCCF)cc1,50178546,4-(5-(4-(2-fluoroethylamino)phenyl)thiophen-2-yl)phenol::CHEMBL206224,Amyloid-beta precursor protein,3.9
+51169190,FCCOCCOCCOc1ccc(cc1)C#Cc1ccc2NCCc2c1,50479454,CHEMBL451807,Amyloid-beta precursor protein,4
+50330484,Oc1ccc(cc1)-c1ccc(s1)-c1ccc(O)cc1,25849,"4-[5-(4-hydroxyphenyl)thiophen-2-yl]phenol::CHEMBL204010::hydroxyphenyl substituted thiophene, 21",Amyloid-beta precursor protein,4
+50236161,CN(C)c1ccc(cc1)-c1nc2ccccc2s1,50129791,"(4-Benzothiazol-2-yl-phenyl)-dimethyl-amine::4-(Benzo[d]thiazol-2-yl)-N,N-dimethylaniline::CHEMBL92816",Amyloid-beta precursor protein,4
+51171819,CNc1ccc2nc(sc2c1)-c1ccc(F)cc1,50480918,CHEMBL578982,Amyloid-beta precursor protein,4.1
+51172881,CN1C(=O)c2ccc(Nc3ccc(C)cc3)cc2C1=O,50481605,CHEMBL598288,Amyloid-beta precursor protein,4.1
+50973529,Nc1ccc(cc1)-c1cc2ccccc2s1,50276883,CHEMBL4175800,Amyloid-beta precursor protein,4.3
+50344545,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,4.3
+50236164,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,4.3
+51172149,CNc1ccc(\C=C\c2ccc(OCCCCCCCCF)cc2)cc1,50481136,CHEMBL566296,Amyloid-beta precursor protein,4.4
+51189405,COc1ccc2nc(\N=C\c3ccc(cc3)N(C)C)sc2c1,50488953,CHEMBL2296467,Amyloid-beta precursor protein,4.4
+50236160,CN(C)c1ccc(cc1)-c1nc2ccc(O)cc2s1,50129792,2-(4-Dimethylamino-phenyl)-benzothiazol-6-ol::CHEMBL91449,Amyloid-beta precursor protein,4.4
+51172125,CN(C)c1ccc(\C=C\c2cccc(I)c2)cc1,50481122,CHEMBL567746,Amyloid-beta precursor protein,4.5
+51162684,CNc1ccc(cc1)C#Cc1ccc(OCCOCCOCCO)cc1,50476291,CHEMBL227674,Amyloid-beta precursor protein,4.5
+51162675,CNc1ccc(\C=C\c2cnc(OCCOCCOCCF)c(Br)c2)cc1,50476283,CHEMBL227921,Amyloid-beta precursor protein,4.5
+50236151,CNc1ccc(cc1)-c1nc2ccc(OC)cc2s1,50129786,CHEMBL94230::[4-(6-Methoxy-benzothiazol-2-yl)-phenyl]-methyl-amine,Amyloid-beta precursor protein,4.9
+582014,CNc1ccc(cc1I)-c1nc2ccccc2s1,303164,"US10137210, Example 00024",Amyloid-beta precursor protein,4.94
+51162690,CN(C)c1ccc(cc1)C#Cc1ccc(OCCOCCF)cc1,50476297,CHEMBL227576,Amyloid-beta precursor protein,5
+51033937,CNc1ccc(\C=C\c2ccc(OCC(CO)CF)cc2)cc1,50422738,CHEMBL567747,Amyloid-beta precursor protein,5
+50180591,CN1CCN(CC1)c1ccc(cc1)-c1nc2ccc(Br)cc2s1,50100132,6-Bromo-2-[4-(4-methyl-piperazin-1-yl)-phenyl]-benzothiazole::CHEMBL55536,Amyloid-beta precursor protein,5
+51162671,CNc1ccc(\C=C\c2cnc(OCCO)c(Br)c2)cc1,50476279,CHEMBL227817,Amyloid-beta precursor protein,5
+51172145,CNc1ccc(\C=C\c2ccc(OCC(CO)CF)cc2)cc1,50422738,CHEMBL567747,Amyloid-beta precursor protein,5
+50344594,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,5
+50344592,COc1ccc(\C=C\c2ccc(\C=C\c3ccc(OC)c(c3)C(O)=O)c(I)c2)cc1C(O)=O,50100135,"(E,E)-1-iodo-2,5-bis-(3-hydroxycarbonyl-4-methoxy)styrylbenzene::5-[2-{4-[2-(3-carboxy-4-methoxyphenyl)-(E)-1-ethenyl]-2-iodophenyl}-(E)-1-ethenyl]-2-methoxybenzoic acid::CHEMBL292910",Amyloid-beta precursor protein,5.1
+51189406,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,5.3
+50180612,CN1CCN(CC1)c1ccc(cc1)-c1nc2ccc(I)cc2s1,50100136,6-Iodo-2-[4-(4-methyl-piperazin-1-yl)-phenyl]-benzothiazole::CHEMBL58092,Amyloid-beta precursor protein,5.4
+51177577,CNc1ccc(cc1)-c1nc2ccc(F)cc2s1,50483880,CHEMBL1774642,Amyloid-beta precursor protein,5.5
+50330481,COc1ccc(cc1)-c1ccc(s1)-c1ccc(N)cc1,50178542,4-(5-(4-methoxyphenyl)thiophen-2-yl)benzenamine::CHEMBL203320,Amyloid-beta precursor protein,5.6
+582010,CNc1ccc(cc1)-c1nc2ccc(CO)cc2s1,303148,"US10137210, Example [N-methyl-11C]6-MeO-BTA-1",Amyloid-beta precursor protein,5.7
+51169323,Cc1ccc2nc(sc2c1)-c1ccc(F)cc1,50479543,CHEMBL510384,Amyloid-beta precursor protein,5.7
+51171821,Cc1ccc2nc(sc2c1)-c1ccc(F)cc1,50479543,CHEMBL510384,Amyloid-beta precursor protein,5.7
+51177578,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,5.8
+51176670,CNc1ccc(cc1)-c1cn2c(n1)sc1cc(OC)ccc21,50483423,CHEMBL1671878,Amyloid-beta precursor protein,5.8
+51177581,CN(C)c1ccc(cc1)-c1nc2ccc(F)cc2s1,50483881,CHEMBL1774643,Amyloid-beta precursor protein,5.9
+51163418,CN(C)c1ccc(cc1)-c1cn2cc(Br)ccc2n1,50122785,"4-(6-bromoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::CHEMBL81260::[4-(6-Bromo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,5.9
+50617050,CN(C)c1ccc(cc1)C#CC(=O)c1ccc(I)cc1,50334369,3-(4-(Dimethylamino)phenyl)-1-(4-iodophenyl)-2-propyn-1-one::CHEMBL1643335,Amyloid-beta precursor protein,6
+50344542,CNc1ccc(\C=C\c2ccc(O)cc2)cc1,50173647,(E)-4-(4-(methylamino)styryl)phenol::4-(4-(methylamino)styryl)phenol::4-N-methylamino-4'-hydroxystilbene::4-[(E)-2-(4-Methylamino-phenyl)-vinyl]-phenol::CHEMBL381642::SB-13::[3H]-4-(4-(methylamino)styryl)phenol,Amyloid-beta precursor protein,6
+51172141,CNc1ccc(\C=C\c2ccc(OCCCCCCCCCCF)cc2)cc1,50481132,CHEMBL570606,Amyloid-beta precursor protein,6
+51176672,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,6
+50330475,COc1ccc(cc1)-c1ccc(s1)-c1ccc(O)cc1,50178536,4-(5-(4-methoxyphenyl)thiophen-2-yl)phenol::CHEMBL381991,Amyloid-beta precursor protein,6.1
+50330487,Nc1ccc(cc1)-c1ccc(s1)-c1ccc(N)cc1,50178547,4-(5-(4-aminophenyl)thiophen-2-yl)benzenamine::CHEMBL382007,Amyloid-beta precursor protein,6.1
+51163802,OCCOc1ncc(cc1I)C#Cc1ccc(O)cc1,50476850,CHEMBL232114,Amyloid-beta precursor protein,6.2
+50180607,CN1CCN(CC1)c1ccc(cc1)-c1nc2ccc(I)cc2s1,50100136,6-Iodo-2-[4-(4-methyl-piperazin-1-yl)-phenyl]-benzothiazole::CHEMBL58092,Amyloid-beta precursor protein,6.4
+50973508,Nc1ccc(cc1)-c1cc2ccccc2s1,50276883,CHEMBL4175800,Amyloid-beta precursor protein,6.5
+51163804,CN(C)c1ccc(cc1)C#Cc1cnc(OCCO)c(Br)c1,50476852,CHEMBL231917,Amyloid-beta precursor protein,6.7
+51162669,OCCOc1ncc(\C=C/c2ccc(O)cc2)cc1Br,50476277,CHEMBL1162947,Amyloid-beta precursor protein,6.8
+51162676,CN(C)c1ccc(\C=C\c2cnc(OCCOCCOCCF)c(Br)c2)cc1,50476284,CHEMBL227869,Amyloid-beta precursor protein,6.8
+51163239,CNc1ccc(cc1)-c1nc2ccc(cc2s1)-c1nc2ccc(Cl)cc2s1,50476564,CHEMBL242130,Amyloid-beta precursor protein,6.8
+51297243,CN(C)c1ccc(cn1)-c1nc2cc([125I])ccc2o1,50528756,CHEMBL4470128,Amyloid-beta precursor protein,6.9
+50236159,COc1ccc2nc(sc2c1)-c1ccc(N)cc1,50052701,"2-(4-Aminophenyl)-6-methoxybenzothiazole::4-(6-Methoxy-benzothiazol-2-yl)-phenylamine::CHEMBL92390::US10137210, Example 6-11CH3O-BTA-0",Amyloid-beta precursor protein,7
+51196554,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,7.2
+50236147,Nc1ccc(cc1)-c1nc2ccc(Br)cc2s1,50129783,4-(6-Bromo-benzothiazol-2-yl)-phenylamine::CHEMBL92852,Amyloid-beta precursor protein,7.2
+51163409,CNc1ccc(cc1Br)-c1cn2cc(Br)ccc2n1,50476655,CHEMBL245208,Amyloid-beta precursor protein,7.4
+50344597,CNc1ccc(\C=C\C=C\C=C\c2ccc(NC)cc2)cc1,50185991,"1,6-bis(4'-methylaminophenyl)-hexa-1,3,5-triene::CHEMBL208457",Amyloid-beta precursor protein,7.5
+51162674,CN(C)c1ccc(\C=C\c2cnc(OCCOCCOCCF)c(I)c2)cc1,50476282,CHEMBL227750,Amyloid-beta precursor protein,7.5
+51172146,CNc1ccc(\C=C\c2ccc(OCCCCCCCCCCCCF)cc2)cc1,50481135,CHEMBL576655,Amyloid-beta precursor protein,7.5
+51162672,CN(C)c1ccc(\C=C\c2cnc(OCCO)c(I)c2)cc1,50476280,CHEMBL224148,Amyloid-beta precursor protein,7.5
+50330477,CN(C)c1ccc(cc1)-c1ccc(s1)-c1ccc(O)cc1,50178538,4-(5-(4-(dimethylamino)phenyl)thiophen-2-yl)phenol::CHEMBL377279,Amyloid-beta precursor protein,7.5
+51172880,CN1C(=O)c2ccc(Nc3ccccc3)cc2C1=O,50481604,CHEMBL610505,Amyloid-beta precursor protein,7.6
+51163413,CN(C)c1ccc(cc1)-c1cn2cc(ccc2n1)[N+]([O-])=O,50476659,CHEMBL244757,Amyloid-beta precursor protein,7.6
+51179888,CNc1ccc(\C=C\c2ccc(OCCOCCOCCOCCOCCOCC(COCCOCCOCCOCCOCCOc3ccc(\C=C\c4ccc(NC)cc4)cn3)OCCF)nc2)cc1,50485239,CHEMBL2042125,Amyloid-beta precursor protein,7.7
+51179400,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,7.7
+51172140,CN(C)c1ccc(\C=C\c2ccccc2I)cc1,50481131,CHEMBL565623,Amyloid-beta precursor protein,7.7
+50342829,CCCC(=O)OC[C@@H](COOOP(O)(=O)O[C@@H]1[C@@H](O)[C@@H](O)[C@@H](O)[C@H](OP(O)(O)=O)[C@H]1O)OC(=O)CCC,50185057,"CHEMBL207423::[(1S,2R,3R,4S,5S,6R)-3-[[(2S)-2,3-dibutanoyloxypropoxy]-hydroxy-phosphoryl]oxy-2,4,5,6-tetrahydroxy-cyclohexyl]oxyphosphonic acid",Amyloid-beta precursor protein,7.8
+51165577,CSc1ccc2nc(cn2c1)-c1ccc(cc1)N(C)C,50477824,CHEMBL252766,Amyloid-beta precursor protein,7.9
+51191709,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,8
+51172130,CNc1ccc(\C=C\c2ccc(OCCCCCCCCCCCCCCF)cc2)cc1,50481127,CHEMBL566917,Amyloid-beta precursor protein,8.2
+51163420,CN(C)c1ccc(cc1)-c1cn2cc(ccc2n1)C#N,50476665,CHEMBL442269,Amyloid-beta precursor protein,8.2
+51163421,COc1ccc(CSc2ccc3nc(cn3c2)-c2ccc(cc2)N(C)C)cc1,50476666,CHEMBL388460,Amyloid-beta precursor protein,8.3
+51163429,CCSc1ccc2nc(cn2c1)-c1ccc(cc1)N(C)C,50476673,CHEMBL242194,Amyloid-beta precursor protein,8.3
+582013,Nc1ccc(cc1I)-c1nc2ccccc2s1,303156,"US10137210, Example 00023",Amyloid-beta precursor protein,8.32
+51162670,CNc1ccc(\C=C\c2cnc(OCCO)c(I)c2)cc1,50476278,CHEMBL224149,Amyloid-beta precursor protein,8.5
+50236152,CNc1ccc(cc1)-c1nc2ccc(cc2s1)C#N,50129787,2-(4-Methylamino-phenyl)-benzothiazole-6-carbonitrile::CHEMBL92802,Amyloid-beta precursor protein,8.6
+51163425,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,8.9
+51165575,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,9
+51172138,CNc1ccc(\C=C\c2ccc(OCCCCCCCCCCCCCCCCF)cc2)cc1,50481130,CHEMBL566711,Amyloid-beta precursor protein,9
+51169502,[O-][N+](=O)c1ccc(cc1)-c1nc2ccccc2s1,50479682,2-(4-Nitrophenyl)Benzo[D]Thiazole::CHEMBL477841,Amyloid-beta precursor protein,9
+50344604,Nc1ccc(\C=C\C=C\C=C\c2ccc(N)cc2)cc1,50185992,"1,6-bis(4'-aminophenyl)-hexa-1,3,5-triene::CHEMBL208456",Amyloid-beta precursor protein,9
+51162666,CNc1ccc(\C=C\c2cnc(OCCOCCOCCF)c(I)c2)cc1,50476274,CHEMBL224147,Amyloid-beta precursor protein,9
+50344607,Oc1ccc(\C=C\C=C\C=C\c2ccc(O)cc2)cc1,50185986,"1,6-Bis(4'-hydroxyphenyl)-hexa-1,3,5-triene::CHEMBL381731",Amyloid-beta precursor protein,9
+51208276,CN(C)c1ccc(\C=C2/COc3ccc(Br)cc3C2=O)cc1,50496524,CHEMBL3126514,Amyloid-beta precursor protein,9.1
+51163800,CN(C)c1ccc(cc1)C#Cc1cnc(OCCO)c(I)c1,50476848,CHEMBL231916,Amyloid-beta precursor protein,9.2
+50840924,COc1cc(C=CC(=O)CC(=O)C=Cc2cc(I)c(O)c(OC)c2)ccc1O,50195683,"5-hydroxy-1-(4-hydroxy-3-iodo-5-methoxyphenyl)-7-(4-hydroxy-3-methoxyphenyl)-1,4,6-heptatrien-3-one::CHEMBL215110",Amyloid-beta precursor protein,9.37
+50236154,Cc1ccc2nc(sc2c1)-c1ccc(N)cc1,50129788,2-(4-Aminophenyl)-6-methylbenzothiazole::4-(6-Methyl-benzothiazol-2-yl)-phenylamine::CHEMBL93109::cid_7087,Amyloid-beta precursor protein,9.5
+582012,CNc1ccc(cc1)-c1nc2ccccc2s1,50109052,"(4-Benzothiazol-2-yl-phenyl)-methyl-amine::4-(benzo[d]thiazol-2-yl)-N-methylaniline::CHEMBL93334::US10137210, Example [N-methyl-11C]BTA-1",Amyloid-beta precursor protein,9.6
+50330476,Nc1ccc(cc1)-c1ccc(s1)-c1ccc(O)cc1,50178537,4-(5-(4-aminophenyl)thiophen-2-yl)phenol::CHEMBL205824,Amyloid-beta precursor protein,9.6
+50236156,CNc1ccc(cc1)-c1nc2ccc(C)cc2s1,50109051,"CHEMBL330529::Methyl-[4-(6-methyl-benzothiazol-2-yl)-phenyl]-amine::US10137210, Example [N-methyl-11C]6-Me-BTA-1",Amyloid-beta precursor protein,10
+51208268,COc1ccc(\C=C2/COc3ccc(Br)cc3C2=O)cc1,50496517,CHEMBL3126511,Amyloid-beta precursor protein,10
+51171820,Nc1ccc2nc(sc2c1)-c1ccc(F)cc1,50480919,CHEMBL568061,Amyloid-beta precursor protein,10
+50342828,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,10.3
+50222454,CN(C)c1ccc(cc1)-c1cn2cc(Br)ccc2n1,50122785,"4-(6-bromoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::CHEMBL81260::[4-(6-Bromo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,10.3
+51189402,COc1ccc(\C=N\c2nc3ccc(OC)cc3s2)cc1,50488950,CHEMBL2296466,Amyloid-beta precursor protein,11
+51195487,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,11
+51218752,CNc1ccc(\C=C\c2ccc(OCCOCCOCCF)nc2)cc1,50492518,"Florbetapir::US10906900, AV45",Amyloid-beta precursor protein,11
+51170548,CNc1ccc(cc1)-c1nc2cccc(O)c2s1,50480215,CHEMBL486529,Amyloid-beta precursor protein,11
+50236153,CNc1ccc(cc1)-c1nc2ccccc2s1,50109052,"(4-Benzothiazol-2-yl-phenyl)-methyl-amine::4-(benzo[d]thiazol-2-yl)-N-methylaniline::CHEMBL93334::US10137210, Example [N-methyl-11C]BTA-1",Amyloid-beta precursor protein,11
+51163805,CN(C)c1ccc(cc1)C#Cc1cnc(OCCOCCOCCF)c(Br)c1,50476853,CHEMBL398059,Amyloid-beta precursor protein,11
+50236149,CN(C)c1ccc(cc1)-c1nc2ccc(cc2s1)C#N,50129785,2-(4-Dimethylamino-phenyl)-benzothiazole-6-carbonitrile::CHEMBL92801,Amyloid-beta precursor protein,11
+582015,Nc1ccc(cc1I)-c1nc2ccc(O)cc2s1,303165,"US10137210, Example 00025",Amyloid-beta precursor protein,11.1
+50344543,Nc1ccc(cc1)-c1cc2cc(O)ccc2o1,50185949,5-hydroxy-2-(4-aminophenyl)benzofuran::CHEMBL380476,Amyloid-beta precursor protein,11.5
+51179399,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,12
+51172132,CNc1ccc(\C=C\c2ccc(OCCCCCCCCCCCCCCCCCCCCF)cc2)cc1,50481129,CHEMBL565658,Amyloid-beta precursor protein,12
+51162681,Nc1ccc(cc1)C#Cc1ccc(OCCOCCF)cc1,50476288,CHEMBL373663,Amyloid-beta precursor protein,12
+50344608,Nc1ccc(\C=C\C=C\C=C\c2ccc(NCCF)cc2)cc1,50185993,"1-(4'-aminophenyl)-6-[4'-(2'-fluoroethylamino)phenyl]-hexa-1,3,5-triene::CHEMBL205332",Amyloid-beta precursor protein,12
+51211170,Brc1ccc(OCc2ccc(I)cc2)cc1,50497739,CHEMBL3314330,Amyloid-beta precursor protein,12
+51170549,CNc1ccc(cc1)-c1nc2cc(O)ccc2s1,50480216,CHEMBL503833,Amyloid-beta precursor protein,12
+50344539,COc1ccc2oc(cc2c1)-c1ccc(cc1)N(C)C,50185945,5-methoxy-2-(4-dimethylaminophenyl)benzofuran::CHEMBL383116,Amyloid-beta precursor protein,12
+51211152,Brc1ccc(OCc2ccc(I)cc2)cc1,50497739,CHEMBL3314330,Amyloid-beta precursor protein,12
+51196547,CNc1ccc(\C=C\c2ccc(OCCOCCOCCF)nc2)cc1,50492518,"Florbetapir::US10906900, AV45",Amyloid-beta precursor protein,13
+51176671,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,13
+51163410,CN(C)c1ccc(cc1)-c1cn2cc(F)ccc2n1,50476656,CHEMBL241967,Amyloid-beta precursor protein,13
+51163803,CNc1ccc(cc1)C#Cc1cnc(OCCOCCOCCF)c(Br)c1,50476851,CHEMBL231918,Amyloid-beta precursor protein,13
+51163806,CNc1ccc(cc1)C#Cc1cnc(OCCO)c(I)c1,50476854,CHEMBL232113,Amyloid-beta precursor protein,13
+50327485,CN(C)c1ccc(cc1)-c1cc(=O)c2cc(I)ccc2o1,50176892,6-iodo-4'-dimethyaminoflavone::CHEMBL375934,Amyloid-beta precursor protein,13.2
+51191704,CNc1c2ccc(I)cc2nc2ccc(OC)cc12,50490496,CHEMBL2326891,Amyloid-beta precursor protein,14
+51162667,Oc1ccc(\C=C\c2cnc(OCCOCCOCCF)c(Br)c2)cc1,50476275,CHEMBL226662,Amyloid-beta precursor protein,14
+50617052,COc1ccc(cc1)C#CC(=O)c1ccc(I)cc1,50334371,3-(4-Methoxyphenyl)-1-(4-iodophenyl)-2-propyn-1-one::CHEMBL1643338,Amyloid-beta precursor protein,14
+51208274,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,14
+51195488,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,15
+50378561,CN(C)c1ccc(\C=C\C=C2/C(=O)Nc3ncccc23)cc1,50103979,CHEMBL3593904,Amyloid-beta precursor protein,15
+50833282,CN(C)c1ccc(\C=C\c2ccc(OCC(CO)CF)cc2)cc1,50370673,CHEMBL1169460,Amyloid-beta precursor protein,15
+50833283,Nc1ccc(\C=C\c2ccc(OCC(CO)CF)cc2)cc1,50173646,3-{4-[(E)-2-(4-Amino-phenyl)-vinyl]-phenoxy}-2-fluoromethyl-propan-1-ol::CHEMBL198597,Amyloid-beta precursor protein,15
+50222456,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,15
+50327477,CN(C)c1ccc(cc1)-c1cc(=O)c2cc(I)ccc2o1,50176892,6-iodo-4'-dimethyaminoflavone::CHEMBL375934,Amyloid-beta precursor protein,15.6
+51196545,CNc1ccc(cc1)-c1cnc2cc(OCC[18F])ccc2n1,50492516,CHEMBL2407621,Amyloid-beta precursor protein,16
+51162673,OCCOc1ncc(\C=C\c2ccc(O)cc2)cc1I,50476281,CHEMBL227923,Amyloid-beta precursor protein,16
+51172882,COc1ccc(Nc2ccc3C(=O)N(C)C(=O)c3c2)cc1,50481606,CHEMBL598082,Amyloid-beta precursor protein,16
+51196548,CNc1ccc(cc1)-c1cnc2cc(OCCF)ccc2n1,50492519,CHEMBL2407615,Amyloid-beta precursor protein,16
+51163801,CN(C)c1ccc(cc1)C#Cc1cnc(OCCOCCOCCF)c(I)c1,50476849,CHEMBL231915,Amyloid-beta precursor protein,17
+51162695,Oc1ccc(cc1)C#Cc1ccc(OCCOCCOCCF)cc1,50476302,CHEMBL227751,Amyloid-beta precursor protein,17
+51211162,CN(C)c1ccc(OCc2ccc(I)cc2)cc1,50497743,CHEMBL3314340,Amyloid-beta precursor protein,18
+51211157,CN(C)c1ccc(OCc2ccc(I)cc2)cc1,50497743,CHEMBL3314340,Amyloid-beta precursor protein,18
+51170551,CNc1ccc(cc1)-c1nc2c(O)cccc2s1,50480217,CHEMBL524651,Amyloid-beta precursor protein,19
+51172131,CNc1ccc(\C=C\c2ccc(OCCCCCCCCCCCCCCCCCCF)cc2)cc1,50481128,CHEMBL585301,Amyloid-beta precursor protein,19
+51163238,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,19
+50330483,COc1ccc(cc1)-c1ccc(s1)-c1ccc(cc1)[N+]([O-])=O,50178544,2-(4-nitrophenyl)-5-(4-methoxyphenyl)thiophene::CHEMBL205403,Amyloid-beta precursor protein,19
+51211164,Clc1ccc(OCc2ccc(I)cc2)cc1,50497724,CHEMBL3314329,Amyloid-beta precursor protein,19
+51211131,Clc1ccc(OCc2ccc(I)cc2)cc1,50497724,CHEMBL3314329,Amyloid-beta precursor protein,19
+50840923,COc1cc(C=CC(C)=O)cc(I)c1O,50195682,4-(4-hydroxy-3-iodo-5-methoxyphenyl)-3-buten-2-one::CHEMBL216553,Amyloid-beta precursor protein,19.97
+50617051,CN(C)c1ccc(cc1)C#CC(=O)c1ccc(F)cc1,50334370,3-(4-(Dimethylamino)phenyl)-1-(4-fruorophenyl)-2-propyn-1-one::CHEMBL1643337,Amyloid-beta precursor protein,20
+51172883,CN1C(=O)c2ccc(Nc3ccc(O)cc3)cc2C1=O,50481607,CHEMBL598083,Amyloid-beta precursor protein,20
+51163243,Nc1ccc(cc1I)-c1nc2ccc(cc2s1)-c1nc2ccccc2s1,50476568,CHEMBL242347,Amyloid-beta precursor protein,21
+51162665,Oc1ccc(\C=C\c2cnc(OCCOCCOCCF)c(I)c2)cc1,50476273,CHEMBL228094,Amyloid-beta precursor protein,21
+582008,CNc1ccc(cc1)-c1nc2ccc(C)cc2s1,50109051,"CHEMBL330529::Methyl-[4-(6-methyl-benzothiazol-2-yl)-phenyl]-amine::US10137210, Example [N-methyl-11C]6-Me-BTA-1",Amyloid-beta precursor protein,21
+51218753,CN(C)c1ccc(OCc2ccc(OCCF)cc2)cc1,50500796,CHEMBL3760007,Amyloid-beta precursor protein,21
+51172127,COc1ccc(\C=C\c2cccc(I)c2)cc1,50481124,CHEMBL565281,Amyloid-beta precursor protein,22
+51172144,CN(C)c1ccc(\C=C\c2ccc(F)cc2)cc1,50481134,CHEMBL81999,Amyloid-beta precursor protein,22
+51162679,Nc1ccc(cc1)C#Cc1ccc(OCCOCCOCCF)cc1,50476286,CHEMBL226610,Amyloid-beta precursor protein,22
+50330478,COc1ccc(cc1)-c1ccc(s1)-c1ccc(NCCF)cc1,50178539,CHEMBL202938::N-(2-fluoroethyl)-4-(5-(4-methoxyphenyl)thiophen-2-yl)benzenamine,Amyloid-beta precursor protein,22
+51211153,Ic1ccc(COc2ccc(I)cc2)cc1,50497740,CHEMBL3314331,Amyloid-beta precursor protein,22
+51211160,Ic1ccc(COc2ccc(I)cc2)cc1,50497740,CHEMBL3314331,Amyloid-beta precursor protein,22
+51163244,CNc1ccc(cc1)-c1nc2ccc(cc2s1)-c1nc2ccccc2s1,50476569,CHEMBL394523,Amyloid-beta precursor protein,22
+50327488,CNc1ccc(cc1)-c1cc(=O)c2cc(I)ccc2o1,50176896,6-iodo-4'-methylaminoflavone::CHEMBL224643,Amyloid-beta precursor protein,22.6
+51163241,CN(C)c1ccc(cc1)-c1nc2ccc(cc2s1)-c1nc2ccc(F)cc2s1,50476566,CHEMBL242132,Amyloid-beta precursor protein,23
+51169327,Oc1ccc2nc(sc2c1)-c1ccc(F)cc1,50479545,CHEMBL490084,Amyloid-beta precursor protein,23
+51211158,COc1ccc(OCc2ccc(I)cc2)cc1,50497737,CHEMBL3314322,Amyloid-beta precursor protein,24
+50080421,COc1cc(\C=C\c2ccc(O)cc2)ccc1\C=C\c1ccc(O)cc1,50398211,CHEMBL2181036,Amyloid-beta precursor protein,24
+51163415,CN(C)c1ccc(cc1)-c1cn2cc(Cl)ccc2n1,50476661,CHEMBL394553,Amyloid-beta precursor protein,24
+50840920,COc1cc(C=CC(=O)CC(C)=O)cc(I)c1O,50195681,"5-hydroxy-1-(4-hydroxy-3-iodo-5-methoxyphenyl)-1,4-hexadien-3-one::CHEMBL217923",Amyloid-beta precursor protein,24.9
+51163240,Nc1ccc(cc1)-c1nc2ccc(cc2s1)-c1nc2ccccc2s1,50476565,CHEMBL243630,Amyloid-beta precursor protein,25
+51211148,COc1ccc(OCc2ccc(I)cc2)cc1,50497737,CHEMBL3314322,Amyloid-beta precursor protein,25
+51163245,COc1ccc2nc(sc2c1)-c1ccc2nc(sc2c1)-c1ccc(N)cc1,50476570,CHEMBL398155,Amyloid-beta precursor protein,25
+51218754,CN(C)c1ccc(COc2ccc(OCCF)cc2)cc1,50500797,CHEMBL3758709,Amyloid-beta precursor protein,26
+51177583,Nc1ccc(cc1)-c1nc2ccc(F)cc2s1,50483882,CHEMBL284575,Amyloid-beta precursor protein,26
+51208270,CN(C)c1ccc(\C=C2/COc3ccc(Br)cc3C2=O)cc1Br,50496519,CHEMBL3126518,Amyloid-beta precursor protein,26
+51163247,CNc1ccc(cc1)-c1nc2ccc(cc2s1)-c1nc2ccc(F)cc2s1,50476572,CHEMBL396212,Amyloid-beta precursor protein,27
+50378261,CN(C)c1ccc(\C=C\C=C2/C(=O)Nc3ccccc23)cc1,50103927,CHEMBL3593903,Amyloid-beta precursor protein,28
+51195490,CN(CCF)c1ccc(cc1)-c1cc2ccccc2[nH]1,50492183,CHEMBL2397721,Amyloid-beta precursor protein,28
+50327479,COc1ccc(cc1)-c1cc(=O)c2cc(I)ccc2o1,50176894,6-iodo-4'-methoxyflavone::CHEMBL224064,Amyloid-beta precursor protein,29
+51191708,COc1ccc2nc3cc(I)ccc3c(OC)c2c1,50490499,CHEMBL2326889,Amyloid-beta precursor protein,29
+50327486,CNc1ccc(cc1)-c1cc(=O)c2cc(I)ccc2o1,50176896,6-iodo-4'-methylaminoflavone::CHEMBL224643,Amyloid-beta precursor protein,30
+582009,COc1ccc2nc(sc2c1)-c1ccc(N)cc1,50052701,"2-(4-Aminophenyl)-6-methoxybenzothiazole::4-(6-Methoxy-benzothiazol-2-yl)-phenylamine::CHEMBL92390::US10137210, Example 6-11CH3O-BTA-0",Amyloid-beta precursor protein,30
+50330473,CNc1ccc(cc1)-c1ccc(s1)-c1ccc(O)cc1,50178534,4-(5-(4-(methylamino)phenyl)thiophen-2-yl)phenol::CHEMBL205512,Amyloid-beta precursor protein,31
+51163404,CN(CCF)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50476650,CHEMBL70894,Amyloid-beta precursor protein,31
+51195495,CN(CCCF)c1ccc(cc1)-c1cc2ccccc2[nH]1,50492186,CHEMBL2397722,Amyloid-beta precursor protein,32
+51172128,Oc1ccc(\C=C\c2cccc(I)c2)cc1,50481125,4-(3-Iodostyryl)Phenol::CHEMBL567614,Amyloid-beta precursor protein,32
+51211146,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,32
+51211165,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,32
+51218756,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,32
+50833279,CNc1ccc(\C=C\c2ccc(OCC(CO)CO)cc2)cc1,50173642,"2-{4-[(E)-2-(4-Methylamino-phenyl)-vinyl]-phenoxymethyl}-propane-1,3-diol::CHEMBL196941",Amyloid-beta precursor protein,32.5
+51163242,Nc1ccc(cc1)-c1nc2ccc(cc2s1)-c1nc2ccc(Cl)cc2s1,50476567,CHEMBL243838,Amyloid-beta precursor protein,34
+51189403,COc1ccc2nc(\N=C\c3ccc(O)cc3)sc2c1,50488951,CHEMBL2296463,Amyloid-beta precursor protein,35
+51163246,Nc1ccc(cc1)-c1nc2ccc(cc2s1)-c1nc2ccc(F)cc2s1,50476571,CHEMBL241917,Amyloid-beta precursor protein,36
+50378302,[O-][N+](=O)c1ccc(\C=C\C=C2/C(=O)Nc3ccccc23)cc1,50104109,CHEMBL3593922,Amyloid-beta precursor protein,36
+50840925,COc1cc(C=CC(C)=O)cc(I)c1O,50195682,4-(4-hydroxy-3-iodo-5-methoxyphenyl)-3-buten-2-one::CHEMBL216553,Amyloid-beta precursor protein,36.6
+50236162,Nc1ccc(cc1)-c1nc2ccccc2s1,50052702,2-(4-Aminophenyl)benzothiazole::4-Benzothiazol-2-yl-phenylamine::CHEMBL93118,Amyloid-beta precursor protein,37
+50378560,CN(C)c1ccc(\C=C\C=C2/C(=O)Nc3ccc(O)cc23)cc1,50103980,CHEMBL3593905,Amyloid-beta precursor protein,37
+50833280,CN(C)c1ccc(\C=C\c2ccc(OCC(CO)CO)cc2)cc1,50173643,"2-{4-[(E)-2-(4-Dimethylamino-phenyl)-vinyl]-phenoxymethyl}-propane-1,3-diol::CHEMBL196407",Amyloid-beta precursor protein,38
+50327487,COc1ccc(cc1)-c1cc(=O)c2cc(I)ccc2o1,50176894,6-iodo-4'-methoxyflavone::CHEMBL224064,Amyloid-beta precursor protein,38.3
+51191701,COc1c2ccc(I)cc2nc2ccc(cc12)N(C)C,50490493,CHEMBL2326888,Amyloid-beta precursor protein,39
+51211132,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,39
+51211172,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,39
+50080423,Oc1ccc(\C=C\c2ccc(\C=C\c3ccc(O)cc3)c(OCC(F)(F)F)c2)cc1,50002834,CHEMBL3233658,Amyloid-beta precursor protein,39
+51208269,COc1cc(OC)cc(\C=C2/COc3ccc(Br)cc3C2=O)c1,50496518,CHEMBL3126522,Amyloid-beta precursor protein,39
+51163427,COc1ccc2nc(cn2c1)-c1ccc(cc1)N(C)C,50476671,CHEMBL243492,Amyloid-beta precursor protein,39
+51218751,CNc1ccc(cc1)-c1nc2ccc(O)cc2s1,50129793,"2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol::2-(4-Methylamino-phenyl)-benzothiazol-6-ol::4-methylamino-phenyl)-benzothiazol-6-ol::6-Hydroxy-2-(4''-N-methylaminophenyl)-1,3-benzothiazole::CHEMBL1788111::CHEMBL93124::N-methyl-2-(4''-methylaminophenyl)-6-hydroxybenzothiazole::N-methyl-[11C]2-(40-methylaminophenyl)-6-hydroxy benzothiazole::[3H]2-(4-(methylamino)phenyl)benzo[d]thiazol-6-ol",Amyloid-beta precursor protein,39
+50378392,CN(C)c1ccc(\C=C2/C(=O)Nc3ncccc23)cc1,50103966,CHEMBL3593893,Amyloid-beta precursor protein,40
+51163414,CN(CCCF)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50476660,CHEMBL69671,Amyloid-beta precursor protein,41
+50617054,CN(C)c1ccc(cc1)-c1cn2cc(I)ccc2n1,50122787,"2-(4'-dimethylaminophenyl)-6-iodoimidazo[1,2-a]pyridine::4-(6-iodoH-imidazo[1,2-a]pyridin-2-yl)-N,N-dimethylbenzenamine::4-(6-iodoimidazo[1,2-a]pyridin-2-yl)-N,N-dimethylaniline::6-iodo-2-(4'-N,N'-dimethylamino)phenylimidazo[1,2-a]pyridine)::6-iodo-2-(4'-dimethylamino)phenyl-imidazo[1,2-a]pyridine::6-iodo-2-(4'-dimethylamino-)phenyl-imidazo[1,2]pyridine::CHEMBL78012::[4-(6-Iodo-imidazo[1,2-a]pyridin-2-yl)-phenyl]-dimethyl-amine",Amyloid-beta precursor protein,46
+50378313,CN(C)c1ccc(\C=C\C=C2/C(=O)N(c3ccccc23)c2ccncc2)cc1,50104105,CHEMBL3593912,Amyloid-beta precursor protein,46
+50236150,Nc1ccc(cc1)-c1nc2ccc(O)cc2s1,50052710,2-(4-Amino-phenyl)-benzothiazol-6-ol::CHEMBL93884,Amyloid-beta precursor protein,46
+51211133,CNc1ccc(OCc2ccc(I)cc2)cc1,50497725,CHEMBL3314337,Amyloid-beta precursor protein,48
+51211161,CNc1ccc(OCc2ccc(I)cc2)cc1,50497725,CHEMBL3314337,Amyloid-beta precursor protein,48
+50342831,CN(C)c1ccc(cc1)-c1cn2cc(CCCF)ccc2n1,50185059,"6-(3'-fluoropropyl)-2-(4'-dimethylamino)phenylimidazo[1,2-a]pyridine::CHEMBL382407",Amyloid-beta precursor protein,48.3
+51211147,COc1ccc(COc2ccc(I)cc2)cc1,50497723,CHEMBL3314342,Amyloid-beta precursor protein,49
+51211130,COc1ccc(COc2ccc(I)cc2)cc1,50497723,CHEMBL3314342,Amyloid-beta precursor protein,49
+50378307,Nc1ccc(\C=C\C=C2/C(=O)Nc3ccccc23)cc1,50104116,CHEMBL3593918,Amyloid-beta precursor protein,51
+51208277,COc1ccc(\C=C2/COc3ccc(Br)cc3C2=O)cc1OC,50496525,CHEMBL3126519,Amyloid-beta precursor protein,54
+50840917,COc1cc(C=CC(C)=O)ccc1O,50195679,(E)-4-(4-Hydroxy-3-methoxy-phenyl)-but-3-en-2-one::4-(4-hydroxy-3-methoxyphenyl)-3-buten-2-one::4-(4-hydroxy-3-methoxyphenyl)but-3-en-2-one::CHEMBL106509::dehydrozingerone,Amyloid-beta precursor protein,54.24
+50840921,COc1cc(C=CC(C)=O)ccc1O,50195679,(E)-4-(4-Hydroxy-3-methoxy-phenyl)-but-3-en-2-one::4-(4-hydroxy-3-methoxyphenyl)-3-buten-2-one::4-(4-hydroxy-3-methoxyphenyl)but-3-en-2-one::CHEMBL106509::dehydrozingerone,Amyloid-beta precursor protein,55.9
+50080424,Oc1ccc(\C=C\c2ccc(\C=C\c3ccc(O)cc3)c(OCCCC(F)(F)F)c2)cc1,50002835,CHEMBL3233659,Amyloid-beta precursor protein,56
+50378317,CN(C)c1ccc(\C=C\C=C2/C(=O)N(C)c3ccccc23)cc1,50104058,CHEMBL3593908,Amyloid-beta precursor protein,56
+50833287,CN(C)c1ccc(\C=C\c2ccc(OCC3COC(C)(C)OC3)cc2)cc1,50173650,"(4-{(E)-2-[4-(2,2-Dimethyl-[1,3]dioxan-5-ylmethoxy)-phenyl]-vinyl}-phenyl)-dimethyl-amine::CHEMBL371066",Amyloid-beta precursor protein,59
+50378301,[O-][N+](=O)c1ccc(\C=C\C=C2\C(=O)Nc3ccccc23)cc1,50104108,CHEMBL3593923,Amyloid-beta precursor protein,60
+51172150,CNc1ccc(\C=C\c2ccc(OCCCCCCCCCCCCCCCCCCCCCCCCF)cc2)cc1,50481137,CHEMBL570608,Amyloid-beta precursor protein,63
+50236157,Nc1ccc(cc1)-c1nc2ccc(cc2s1)C#N,50129789,2-(4-Amino-phenyl)-benzothiazole-6-carbonitrile::CHEMBL93270,Amyloid-beta precursor protein,64
+51208271,Nc1ccc(\C=C2/COc3ccc(Br)cc3C2=O)cc1,50496520,CHEMBL3126516,Amyloid-beta precursor protein,64
+50236158,CN(C)c1ccc(cc1)-c1nc2ccc(C)cc2s1,50129790,CHEMBL329640::Dimethyl-[4-(6-methyl-benzothiazol-2-yl)-phenyl]-amine,Amyloid-beta precursor protein,64
+51162687,Nc1ccc(cc1)C#Cc1ccc(OCCOCCOCCO)cc1,50476294,CHEMBL227752,Amyloid-beta precursor protein,68
+51179883,CNc1ccc(\C=C\c2ccc(OCCOCCOCCOCCNC(=O)CN(CC(=O)NCCOCCOCCOCCOc3ccc(\C=C\c4ccc(NC)cc4)cn3)C(=O)COCCOCCOCCF)nc2)cc1,50485237,CHEMBL2042246,Amyloid-beta precursor protein,71
+50327482,Oc1ccc(cc1)-c1cc(=O)c2cc(I)ccc2o1,50176895,6-iodo-4'-hydroxyflavone::CHEMBL388844,Amyloid-beta precursor protein,72.5
+51208275,COc1cccc(\C=C2/COc3ccc(Br)cc3C2=O)c1,50496523,CHEMBL3126520,Amyloid-beta precursor protein,73
+50378272,COc1ccc(CN2C(=O)\C(=C/C=C/c3ccc(cc3)[N+]([O-])=O)c3ccccc23)cc1OC,50103961,CHEMBL3593930,Amyloid-beta precursor protein,74
+51162683,Nc1ccc(cc1)C#Cc1ccc(N)cc1,50476290,CHEMBL227625,Amyloid-beta precursor protein,76
+50327481,Oc1ccc(cc1)-c1cc(=O)c2cc(I)ccc2o1,50176895,6-iodo-4'-hydroxyflavone::CHEMBL388844,Amyloid-beta precursor protein,77.2
+51211135,Ic1ccc(COc2ccccc2)cc1,50497727,CHEMBL3314332,Amyloid-beta precursor protein,79
+51211169,Ic1ccc(COc2ccccc2)cc1,50497727,CHEMBL3314332,Amyloid-beta precursor protein,79
+50833285,CN(C)c1ccc(\C=C\c2ccc(OCC(CO)Cc3ccc(Br)cc3)cc2)cc1,50173648,2-(4-Bromo-benzyl)-3-{4-[(E)-2-(4-dimethylamino-phenyl)-vinyl]-phenoxy}-propan-1-ol::CHEMBL196387,Amyloid-beta precursor protein,80
+51165579,CNc1ccc(cc1)-c1cn2cc(SC)ccc2n1,50477826,CHEMBL252765,Amyloid-beta precursor protein,80
+51195489,CN(CCCF)c1ccc(cc1)-c1cc2ccccc2n1C,50492182,CHEMBL2397724,Amyloid-beta precursor protein,80
+50378312,CCOC(=O)N1C(=O)\C(=C/C=C/c2ccc(cc2)N(C)C)c2ccccc12,50104106,CHEMBL3593913,Amyloid-beta precursor protein,84
+50080425,Oc1ccc(\C=C\c2ccc(\C=C\c3ccc(O)cc3)c(OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F)c2)cc1,50002836,CHEMBL3233660,Amyloid-beta precursor protein,84
+51191707,COc1ccc2nc3cc(I)ccc3c(N)c2c1,50490498,CHEMBL2326890,Amyloid-beta precursor protein,84
+50378311,CN(C)c1ccc(\C=C\C=C2/C(=O)N(Cc3ccccc3)c3ncccc23)cc1,50104107,CHEMBL3593914,Amyloid-beta precursor protein,85
+50378398,CN(C)c1ccc(\C=C2/C(=O)N(c3ccccc23)c2ccncc2)cc1,50103971,CHEMBL3593897,Amyloid-beta precursor protein,87
+51163424,CN(C)c1ccc(cc1)-c1cn2cc(SCCO)ccc2n1,50476669,CHEMBL244995,Amyloid-beta precursor protein,88
+51163407,CN(C)c1ccc(cc1)-c1cn2cc(Cl)ncc2n1,50476653,CHEMBL244747,Amyloid-beta precursor protein,88
+50378391,CN(C)c1ccc(\C=C2/C(=O)Nc3ccccc23)cc1,17747,"(3Z)-3-{[4-(dimethylamino)phenyl]methylidene}-2,3-dihydro-1H-indol-2-one::CHEMBL328710::SU 4312::SU4312",Amyloid-beta precursor protein,92
+50378314,CN(C)c1ccc(\C=C\C=C2/C(=O)N(Cc3ccc(cc3)[N+]([O-])=O)c3ccccc23)cc1,50104103,CHEMBL3593911,Amyloid-beta precursor protein,92
+50833286,Nc1ccc(\C=C\c2ccc(O)cc2)cc1,50173649,"4-[(E)-2-(4-Amino-phenyl)-vinyl]-phenol::CHEMBL194754::Stilbene derivative, 1",Amyloid-beta precursor protein,95
+50378393,CN(C)c1ccc(\C=C2/C(=O)Nc3ccc(O)cc23)cc1,50103968,CHEMBL3593894,Amyloid-beta precursor protein,95
+50378309,CN(C)c1ccc(\C=C\C=C2/C(=O)N(Cc3ccc(N)cc3)c3ccccc23)cc1,50104144,CHEMBL3593916,Amyloid-beta precursor protein,99
+51208273,Oc1ccc(\C=C2/COc3ccc(Br)cc3C2=O)cc1,50496522,CHEMBL3126512,Amyloid-beta precursor protein,103
+51189401,COc1ccc2nc(\N=C\c3ccc(I)cc3)sc2c1,50488949,CHEMBL2296462,Amyloid-beta precursor protein,103
+51208272,Brc1ccc2OC\C(=C/c3ccccc3)C(=O)c2c1,50496521,CHEMBL3126513,Amyloid-beta precursor protein,104
+51162688,Nc1ccc(cc1)C#Cc1ccc(O)cc1,50476295,CHEMBL373548,Amyloid-beta precursor protein,106
+51189404,COc1ccc2nc(\N=C\c3ccc(Br)cc3)sc2c1,50488952,CHEMBL2296464,Amyloid-beta precursor protein,106
+51211140,Fc1ccc(OCc2ccc(I)cc2)cc1,50497731,CHEMBL3314328,Amyloid-beta precursor protein,107
+51211175,Fc1ccc(OCc2ccc(I)cc2)cc1,50497731,CHEMBL3314328,Amyloid-beta precursor protein,107
+50378310,COc1ccc(CN2C(=O)\C(=C/C=C/c3ccc(cc3)N(C)C)c3cccnc23)cc1,50104145,CHEMBL3593915,Amyloid-beta precursor protein,107
+51208267,[O-][N+](=O)c1ccc(\C=C2/COc3ccc(Br)cc3C2=O)cc1,50496516,CHEMBL3126515,Amyloid-beta precursor protein,108
+50330482,COc1ccc(cc1)-c1ccc(s1)-c1ccc(OC)cc1,50178543,"2,5-bis(4-methoxyphenyl)thiophene::CHEMBL378797",Amyloid-beta precursor protein,108
+50378270,COc1cccc(CN2C(=O)\C(=C/C=C/c3ccc(cc3)[N+]([O-])=O)c3ccccc23)c1,50103936,CHEMBL3593928,Amyloid-beta precursor protein,110
+51196552,CN(C)c1ccc(cc1)-c1cnc2ccc(OCCF)cc2n1,50492523,CHEMBL2407623,Amyloid-beta precursor protein,111
+51196557,CN(C)c1ccc(cc1)-c1cnc2ccc(OCCF)cc2n1,50492523,CHEMBL2407623,Amyloid-beta precursor protein,111
+51211149,Oc1ccc(OCc2ccc(I)cc2)cc1,50497729,CHEMBL3314325,Amyloid-beta precursor protein,112
+50378265,COc1ccc(CN2C(=O)\C(=C/c3ccc(cc3)N(C)C)c3cccnc23)cc1,50103931,CHEMBL3593900,Amyloid-beta precursor protein,113
+51211138,Oc1ccc(OCc2ccc(I)cc2)cc1,50497729,CHEMBL3314325,Amyloid-beta precursor protein,113
+50180606,CN(C)c1ccc(cc1)-c1sc2cc(C)ccc2[n+]1C,50100134,"2-(4-Dimethylamino-phenyl)-3,6-dimethyl-benzothiazol-3-ium::2-(4-Dimethylamino-phenyl)-3,6-dimethyl-benzothiazol-3-ium(thioflavin T)::2-[4-(dimethylamino)phenyl]-3,6-dimethyl-1,3-benzothiazol-3-ium::CHEMBL224392::CHEMBL57267::Thioflavin T::Thioflavin T, 1::[4-(3,6-dimethyl-benzothiazol-2-yl)-phenyl]-dimethyl-amine::cid_16954",Amyloid-beta precursor protein,116
+51195491,CN(CCF)c1ccc(cc1)-c1cc2ccccc2n1C,50492184,CHEMBL2397723,Amyloid-beta precursor protein,117
+51211167,CC(C)(C)c1ccc(OCc2ccc(I)cc2)cc1,50497732,CHEMBL3314333,Amyloid-beta precursor protein,117
+51211141,CC(C)(C)c1ccc(OCc2ccc(I)cc2)cc1,50497732,CHEMBL3314333,Amyloid-beta precursor protein,118
+51218746,COc1ccc(COc2ccc(OCCF)cc2)cc1,50500791,CHEMBL3759263,Amyloid-beta precursor protein,119
+51191702,COc1ccc2nc3cc(I)ccc3c(N(C)C)c2c1,50490494,CHEMBL2326892,Amyloid-beta precursor protein,121
+50344602,CNc1ccc(\C=C\C=C\C=C\c2ccc(NC)cc2)cc1,50185991,"1,6-bis(4'-methylaminophenyl)-hexa-1,3,5-triene::CHEMBL208457",Amyloid-beta precursor protein,122
+50378275,[O-][N+](=O)c1ccc(\C=C\C=C2\C(=O)N(Cc3ccc(OCCF)cc3)c3ccccc23)cc1,50103965,CHEMBL3593933,Amyloid-beta precursor protein,125
+50378262,COc1ccc(\C=C\C=C2/C(=O)Nc3ccccc23)cc1,50103928,CHEMBL3593902,Amyloid-beta precursor protein,126
+50378273,COc1ccc(CN2C(=O)\C(=C\C=C\c3ccc(cc3)[N+]([O-])=O)c3ccccc23)cc1OC,50103963,CHEMBL3593931,Amyloid-beta precursor protein,130
+50378315,COc1ccc(CN2C(=O)\C(=C/C=C/c3ccc(cc3)N(C)C)c3ccccc23)cc1,50104060,CHEMBL3593910,Amyloid-beta precursor protein,130
+51211137,COc1cccc(OCc2ccc(I)cc2)c1,50497726,CHEMBL3314323,Amyloid-beta precursor protein,131
+50378268,COc1ccc(CN2C(=O)\C(=C/C=C/c3ccc(cc3)[N+]([O-])=O)c3ccccc23)cc1,50103934,CHEMBL3593926,Amyloid-beta precursor protein,131
+51211134,COc1cccc(OCc2ccc(I)cc2)c1,50497726,CHEMBL3314323,Amyloid-beta precursor protein,132
+50378269,COc1ccc(CN2C(=O)\C(=C\C=C\c3ccc(cc3)[N+]([O-])=O)c3ccccc23)cc1,50103935,CHEMBL3593927,Amyloid-beta precursor protein,139
+50378402,CCOC(=O)N1C(=O)\C(=C/c2ccc(cc2)N(C)C)c2ccccc12,50103972,CHEMBL3593898,Amyloid-beta precursor protein,140
+50378274,[O-][N+](=O)c1ccc(\C=C\C=C2/C(=O)N(Cc3ccc(OCCF)cc3)c3ccccc23)cc1,50103964,CHEMBL3593932,Amyloid-beta precursor protein,142
+51208278,Brc1ccc(\C=C2/COc3ccc(Br)cc3C2=O)cc1,50496526,CHEMBL3126517,Amyloid-beta precursor protein,144
+51163411,CN(C)c1ccc(cc1)-c1cn2cc(Cl)cnc2n1,50476657,CHEMBL394626,Amyloid-beta precursor protein,147
+50833281,COc1ccc(cc1)S(=O)(=O)OCC(CO)COc1ccc(\C=C\c2ccc(cc2)N(C)C)cc1,50173645,4-Methoxy-benzenesulfonic acid 3-{4-[(E)-2-(4-dimethylamino-phenyl)-vinyl]-phenoxy}-2-hydroxymethyl-propyl ester::CHEMBL196213,Amyloid-beta precursor protein,150
+50344587,Oc1ccc(\C=C\C=C\C=C\c2ccc(O)cc2)cc1,50185986,"1,6-Bis(4'-hydroxyphenyl)-hexa-1,3,5-triene::CHEMBL381731",Amyloid-beta precursor protein,150
+50344600,CN(CCF)c1ccc2cc(ccc2c1)C(C)=C(C#N)C#N,50185987,"2-(1-(6-((2-fluoroethyl)(methyl)amino)naphthalen-2-yl)ethylidene)malononitrile::CHEMBL207649::US10906900, FDDNP::US9452985, FDDNP (reference for comparison)",Amyloid-beta precursor protein,152
+51218747,COc1ccc(OCc2ccc(OCCF)cc2)cc1,50500792,CHEMBL3758500,Amyloid-beta precursor protein,153
+50378394,CN(C)c1ccc(\C=C2/C(=O)N(C)c3ccccc23)cc1,50065315,"3-[1-(4-Dimethylamino-phenyl)-meth-(Z)-ylidene]-1-methyl-1,3-dihydro-indol-2-one::CHEMBL86921",Amyloid-beta precursor protein,155
+51172135,CN(CCF)c1ccc2cc(ccc2c1)C(C)=C(C#N)C#N,50185987,"2-(1-(6-((2-fluoroethyl)(methyl)amino)naphthalen-2-yl)ethylidene)malononitrile::CHEMBL207649::US10906900, FDDNP::US9452985, FDDNP (reference for comparison)",Amyloid-beta precursor protein,172
+51162682,c1ccc(cc1)C#Cc1ccccc1,50476289,CHEBI:51579::DIPHENYLACETYLENE,Amyloid-beta precursor protein,175
+50342830,CN(C)c1ccc(cc1)-c1cn2cc(CCF)ccc2n1,50185058,"6-(2'-fluoroethyl)-2-(4'-dimethylamino)phenylimidazo[1,2-a]pyridine::CHEMBL381708",Amyloid-beta precursor protein,177
+51163422,CN(C)c1ccc(cc1)-c1cn2cc(O)ccc2n1,50476667,CHEMBL387998,Amyloid-beta precursor protein,177
+50378264,CN(C)c1ccc(\C=C2/C(=O)N(c3ccccc23)c2ccccc2)cc1,50103930,CHEMBL3593252,Amyloid-beta precursor protein,179
+51163412,CN(C)c1ccc(cc1)-c1cn2cc(Br)cc(I)c2n1,50476658,CHEMBL242410,Amyloid-beta precursor protein,183
+50330485,[O-][N+](=O)c1ccc(cc1)-c1ccc(s1)-c1ccc(cc1)[N+]([O-])=O,50178545,"2,5-bis(4-nitrophenyl)thiophene::CHEMBL202898",Amyloid-beta precursor protein,185
+50378404,CN(C)c1ccc(\C=C2/C(=O)N(Cc3ccccc3)c3ncccc23)cc1,50103976,CHEMBL3593899,Amyloid-beta precursor protein,190
+51218748,CN(C)c1ccc(COc2ccc(OCCOCCF)cc2)cc1,50500793,CHEMBL3758630,Amyloid-beta precursor protein,191
+51165574,COC(=O)CCSc1ccc2nc(cn2c1)-c1ccc(cc1)N(C)C,50477823,CHEMBL252969,Amyloid-beta precursor protein,205
+50378266,[O-][N+](=O)c1ccc(\C=C\C=C2/C(=O)N(Cc3ccccc3)c3ccccc23)cc1,50103932,CHEMBL3593924,Amyloid-beta precursor protein,214
+50344610,Nc1ccc(\C=C\C=C\C=C\c2ccc(NCCF)cc2)cc1,50185993,"1-(4'-aminophenyl)-6-[4'-(2'-fluoroethylamino)phenyl]-hexa-1,3,5-triene::CHEMBL205332",Amyloid-beta precursor protein,217
+348220,COc1ccc(COc2ccc3nc4ccc(=O)cc4oc3c2)cc1,195597,"US9216974, WC-5-5",Amyloid-beta precursor protein,218
+50840918,COc1cc(C=CC(C)=O)ccc1OCCF,50195680,4-[4-(2-fluoroethoxy)-3-methoxyphenyl]-3-buten-2-one::CHEMBL387276,Amyloid-beta precursor protein,232.7
+50378267,[O-][N+](=O)c1ccc(\C=C\C=C2\C(=O)N(Cc3ccccc3)c3ccccc23)cc1,50103933,CHEMBL3593925,Amyloid-beta precursor protein,235
+51196549,Nc1ccc(cc1)-c1cnc2cc(OCCF)ccc2n1,50492520,CHEMBL2407624,Amyloid-beta precursor protein,242
+50222453,CN(C)c1ccc(cc1)-c1cn2cc(C)ccc2n1,50122784,"CHEMBL78621::Dimethyl-[4-(6-methyl-imidazo[1,2-a]pyridin-2-yl)-phenyl]-amine",Amyloid-beta precursor protein,242
+50080422,Oc1ccc(\C=C\c2ccc(\C=C\c3ccc(O)cc3)c(c2)C(F)(F)F)cc1,50002833,CHEMBL3233657,Amyloid-beta precursor protein,244
+50378397,COc1ccc(CN2C(=O)\C(=C/c3ccc(cc3)N(C)C)c3ccccc23)cc1,50103970,CHEMBL3593896,Amyloid-beta precursor protein,252
+50378395,CN(C)c1ccc(\C=C2/C(=O)N(Cc3ccccc3)c3ccccc23)cc1,50103969,CHEMBL3593895,Amyloid-beta precursor protein,260
+348218,CCOc1ccc2nc3ccc(=O)cc3oc2c1,21360,"7-ethoxy-3H-phenoxazin-3-one::7-ethoxyresorufin::Ethoxyresorufin::US9216974, Ethoxy-resorufin",Amyloid-beta precursor protein,262
+50378271,COc1cccc(CN2C(=O)\C(=C\C=C\c3ccc(cc3)[N+]([O-])=O)c3ccccc23)c1,50103937,CHEMBL3593929,Amyloid-beta precursor protein,265
+50378263,O=C1Nc2ccccc2\C1=C\C=C\c1ccccc1,50103929,CHEMBL3593901,Amyloid-beta precursor protein,267
+50378308,CN(C)c1ccc(\C=C\C=C2/C(=O)N(c3ccccc23)c2ccccc2)cc1,50104143,CHEMBL3593917,Amyloid-beta precursor protein,287
+50180614,CN(C)c1ccc(cc1)-c1sc2cc(C)ccc2[n+]1C,50100134,"2-(4-Dimethylamino-phenyl)-3,6-dimethyl-benzothiazol-3-ium::2-(4-Dimethylamino-phenyl)-3,6-dimethyl-benzothiazol-3-ium(thioflavin T)::2-[4-(dimethylamino)phenyl]-3,6-dimethyl-1,3-benzothiazol-3-ium::CHEMBL224392::CHEMBL57267::Thioflavin T::Thioflavin T, 1::[4-(3,6-dimethyl-benzothiazol-2-yl)-phenyl]-dimethyl-amine::cid_16954",Amyloid-beta precursor protein,294
+50840927,COc1cc(C=CC(=O)CC(C)=O)ccc1OCCCF,50195685,"1-[4-(3-fluoropropoxy)-3-methoxyphenyl]-5-hydroxy-1,4-hexadien-3-one::CHEMBL216864",Amyloid-beta precursor protein,316.3
+50378306,[O-][N+](=O)c1ccc(\C=C2/C(=O)Nc3ccccc23)cc1,108083,3-(4-nitrobenzylidene)indolin-2-one (Compound 24),Amyloid-beta precursor protein,325
+50617053,Oc1ccc(cc1)C#CC(=O)c1ccc(I)cc1,50334372,3-(4-Hydroxyphenyl)-1-(4-iodophenyl)-2-propyn-1-one::CHEMBL1643339,Amyloid-beta precursor protein,326
+50222459,CN(C)c1ccc2nc(cn2c1)-c1ccc(Br)cc1,50122789,"CHEMBL309920::[2-(4-Bromo-phenyl)-imidazo[1,2-a]pyridin-6-yl]-dimethyl-amine",Amyloid-beta precursor protein,339
+348222,COCCOc1ccc2nc3ccc(=O)cc3oc2c1,195592,"US9216974, WC-5-42",Amyloid-beta precursor protein,347
+51191703,CCN(CC)CCCC(C)Nc1c2ccc(I)cc2nc2ccc(OC)cc12,50490495,CHEMBL2326893,Amyloid-beta precursor protein,353
+50378316,CN(C)c1ccc(\C=C\C=C2/C(=O)N(Cc3ccccc3)c3ccccc23)cc1,50104059,CHEMBL3593909,Amyloid-beta precursor protein,358
+51218755,CN(C)c1ccc(COc2ccc(OCCOCCOCCF)cc2)cc1,50500798,CHEMBL3759510,Amyloid-beta precursor protein,358
+50344601,Nc1ccc(\C=C\C=C\C=C\c2ccc(N)cc2)cc1,50185992,"1,6-bis(4'-aminophenyl)-hexa-1,3,5-triene::CHEMBL208456",Amyloid-beta precursor protein,375
+51165578,CSc1ccc2nc(cn2c1)-c1ccc(N)cc1,50477825,CHEMBL254850,Amyloid-beta precursor protein,377
+51211139,Oc1cccc(OCc2ccc(I)cc2)c1,50497730,CHEMBL3314326,Amyloid-beta precursor protein,386
+51211150,Oc1cccc(OCc2ccc(I)cc2)c1,50497730,CHEMBL3314326,Amyloid-beta precursor protein,389
+51163417,CN(C)c1ccc(cc1)-c1cn2cc(SCC(N)=O)ccc2n1,50476663,CHEMBL244994,Amyloid-beta precursor protein,391
+51211177,Nc1ccc(OCc2ccc(I)cc2)cc1,50497733,CHEMBL3314334,Amyloid-beta precursor protein,407
+348223,COCCOCCOc1ccc2nc3ccc(=O)cc3oc2c1,195593,"US9216974, WC-5-43",Amyloid-beta precursor protein,407
+51211142,Nc1ccc(OCc2ccc(I)cc2)cc1,50497733,CHEMBL3314334,Amyloid-beta precursor protein,409
+348224,COc1ccc(OCCOc2ccc3nc4ccc(=O)cc4oc3c2)cc1,195594,"US9216974, WC-5-45",Amyloid-beta precursor protein,421
+51208279,COc1cc(\C=C2/COc3ccc(Br)cc3C2=O)ccc1O,50496527,CHEMBL3126521,Amyloid-beta precursor protein,432
+51218749,COc1ccc(COc2ccc(OCCOCCF)cc2)cc1,50500794,CHEMBL3759176,Amyloid-beta precursor protein,438
+50378305,[O-][N+](=O)c1ccc(\C=C2\C(=O)Nc3ccccc23)cc1,50104115,CHEMBL3593919,Amyloid-beta precursor protein,439
+50378304,[O-][N+](=O)c1ccc(\C=C2/C(=O)N(Cc3ccccc3)c3ccccc23)cc1,50104111,CHEMBL3593920,Amyloid-beta precursor protein,460
+51179884,CNc1ccc(\C=C\c2ccc(OCCOCCOCCOCCn3cc(COCC(COCCOCCOCCF)(COCc4cn(CCOCCOCCOCCOc5ccc(\C=C\c6ccc(NC)cc6)cn5)nn4)COCc4cn(CCOCCOCCOCCOc5ccc(\C=C\c6ccc(NC)cc6)cn5)nn4)nn3)nc2)cc1,50485238,CHEMBL2042247,Amyloid-beta precursor protein,468
+50330474,COc1ccc(cc1)-c1ccc(s1)-c1ccc(cc1)N(C)C,50178535,"4-(5-(4-methoxyphenyl)thiophen-2-yl)-N,N-dimethylbenzenamine::CHEMBL438972",Amyloid-beta precursor protein,500
+50344606,[O-][N+](=O)c1ccc(\C=C\C=C\C=C\c2ccc(cc2)[N+]([O-])=O)cc1,50185989,"1,6-bis(4'-nitrophenyl)-hexa-1,3,5-triene::CHEMBL205899",Amyloid-beta precursor protein,500
+51189400,COc1ccc2nc(\N=C\c3ccc(cc3)[N+]([O-])=O)sc2c1,50488948,CHEMBL2296465,Amyloid-beta precursor protein,515
+51211173,COc1ccc(SCc2ccc(I)cc2)cc1,50497736,CHEMBL3314343,Amyloid-beta precursor protein,525
+51211145,COc1ccc(SCc2ccc(I)cc2)cc1,50497736,CHEMBL3314343,Amyloid-beta precursor protein,530
+50236155,CN(C)c1ccc(cc1)-c1sc2cc(C)ccc2[n+]1C,50100134,"2-(4-Dimethylamino-phenyl)-3,6-dimethyl-benzothiazol-3-ium::2-(4-Dimethylamino-phenyl)-3,6-dimethyl-benzothiazol-3-ium(thioflavin T)::2-[4-(dimethylamino)phenyl]-3,6-dimethyl-1,3-benzothiazol-3-ium::CHEMBL224392::CHEMBL57267::Thioflavin T::Thioflavin T, 1::[4-(3,6-dimethyl-benzothiazol-2-yl)-phenyl]-dimethyl-amine::cid_16954",Amyloid-beta precursor protein,580
+51211168,CNc1cccc(OCc2ccc(I)cc2)c1,50497745,CHEMBL3314338,Amyloid-beta precursor protein,589
+51211178,CNc1cccc(OCc2ccc(I)cc2)c1,50497745,CHEMBL3314338,Amyloid-beta precursor protein,594
+50330480,COc1ccccc1-c1ccc(s1)-c1ccccc1OC,50178541,"2,5-bis(2-methoxyphenyl)thiophene::CHEMBL204873",Amyloid-beta precursor protein,625
+50222457,Cc1ccc2nc(cn2c1)-c1ccc(Br)cc1,50122788,"2-(4-Bromo-phenyl)-6-methyl-imidazo[1,2-a]pyridine::CHEMBL78765",Amyloid-beta precursor protein,638
+51163406,CNc1ccc(cc1)-c1cn2cc(SCCO)ccc2n1,50476652,CHEMBL241986,Amyloid-beta precursor protein,645
+51163403,Cc1cc(ccc1N)-c1cn2cc(Br)ccc2n1,50476649,CHEMBL245210,Amyloid-beta precursor protein,658
+50378303,[O-][N+](=O)c1ccc(\C=C2\C(=O)N(Cc3ccccc3)c3ccccc23)cc1,50104110,CHEMBL3593921,Amyloid-beta precursor protein,695
+50378559,O=C1N(Cc2ccccc2)c2ccccc2\C1=C\C=C\c1ccccc1,50103981,CHEMBL3593906,Amyloid-beta precursor protein,703
+50378318,COc1ccc(\C=C\C=C2/C(=O)N(Cc3ccccc3)c3ccccc23)cc1,50104034,CHEMBL3593907,Amyloid-beta precursor protein,741
+51196553,CNc1ccc(cc1)-c1cnc2ccc(OCCF)cc2n1,50492524,CHEMBL2407625,Amyloid-beta precursor protein,758
+51218750,COc1ccc(COc2ccc(OCCOCCOCCF)cc2)cc1,50500795,CHEMBL3759854,Amyloid-beta precursor protein,770
+51169328,Oc1cc(O)c2sc(nc2c1)-c1ccc(F)cc1,50479546,CHEMBL490085,Amyloid-beta precursor protein,776
+50344596,CN(C)c1ccc(\C=C\C=C\C=C\c2ccc(cc2)N(C)C)cc1,50185990,"1,6-bis(4'-dimethylaminophenyl)-hexa-1,3,5-triene::CHEMBL377929",Amyloid-beta precursor protein,837
+50840929,COc1cc(C=CC(C)=O)ccc1OCCCF,50195687,4-[4-(3-fluoropropoxy)-3-methoxyphenyl]-3-buten-2-one::CHEMBL386737,Amyloid-beta precursor protein,839.2
+348221,CC(=O)OCCOc1ccc2nc3ccc(=O)cc3oc2c1,195596,"US9216974, WC-5-8",Amyloid-beta precursor protein,860
+51221149,CN(C)c1ccc(cc1)-c1sc2cc(C)ccc2[n+]1C,50100134,"2-(4-Dimethylamino-phenyl)-3,6-dimethyl-benzothiazol-3-ium::2-(4-Dimethylamino-phenyl)-3,6-dimethyl-benzothiazol-3-ium(thioflavin T)::2-[4-(dimethylamino)phenyl]-3,6-dimethyl-1,3-benzothiazol-3-ium::CHEMBL224392::CHEMBL57267::Thioflavin T::Thioflavin T, 1::[4-(3,6-dimethyl-benzothiazol-2-yl)-phenyl]-dimethyl-amine::cid_16954",Amyloid-beta precursor protein,890
+51211174,CN(C)c1cccc(OCc2ccc(I)cc2)c1,50497735,CHEMBL3314341,Amyloid-beta precursor protein,891
+51211144,CN(C)c1cccc(OCc2ccc(I)cc2)c1,50497735,CHEMBL3314341,Amyloid-beta precursor protein,894
+50840928,COc1cc(C=CC(=O)CC(C)=O)ccc1OCCF,50195686,"1-[4-(2-fluoroethoxy)-3-methoxyphenyl]-5-hydroxy-1,4-hexadien-3-one::CHEMBL216432",Amyloid-beta precursor protein,958.1
