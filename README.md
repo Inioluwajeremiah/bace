@@ -177,6 +177,7 @@ def generate_mordred_descriptors(smile_molecules):
     
     return mord
 ```
+# Machine Learning Prediction
 
 ## 1. Data Loading and Preprocessing
 
@@ -233,12 +234,20 @@ X_cnn = data_selected.reshape(data_selected.shape[0], data_selected.shape[1], 1)
 # Split the data into training and testing sets
 X_cnn_train, X_cnn_test, y_train, y_test = train_test_split(data_normalized, bace_ki, test_size=0.2, random_state=119)
 
-# Define and compile the CNN model
-model_cnn = Sequential(...)
+# Define the CNN model
+model_cnn = Sequential()
+model_cnn.add(Conv1D(32, 2, activation='relu', input_shape=X_cnn_train.shape[1:]))
+model_cnn.add(MaxPooling1D(2))
+model_cnn.add(Flatten())
+model_cnn.add(Dense(32, activation='relu'))
+model_cnn.add(Dense(1))
+
+# Compile the CNN model
 model_cnn.compile(optimizer='adam', loss='mean_squared_error')
 
 # Train the CNN model
 model_cnn.fit(X_cnn_train, y_train, epochs=10, batch_size=32, validation_data=(X_cnn_test, y_test))
+
 ```
 
 ### 3.2 Recurrent Neural Network (RNN)
@@ -249,8 +258,12 @@ X_rnn = data_normalized.reshape(data_normalized.shape[0], 1, data_normalized.sha
 # Split the data into training and testing sets
 X_rnn_train, X_rnn_test = X_rnn[y_train.index], X_rnn[y_test.index]
 
-# Define and compile the RNN model
-model_rnn = Sequential(...)
+# Define the RNN model
+model_rnn = Sequential()
+model_rnn.add(LSTM(32, activation='relu', input_shape=X_rnn_train.shape[1:]))
+model_rnn.add(Dense(1))
+
+# Compile the RNN model
 model_rnn.compile(optimizer='adam', loss='mean_squared_error')
 
 # Train the RNN model
