@@ -4,9 +4,10 @@
 
 A QSAR study of BACE (Beta-site amyloid precursor protein cleaving enzyme) and its Ki values which is crucial for understanding the inhibitory activity of compounds against BACE enzymes, especially BACE1 which is associated with Alzheimer's disease. 
 BACE dataset is read using pandas dataframe and cleaned to remove entries with wrong data type for 'Ki' values. The cleaned data was then analyzed and visualized to gain insights into the dataset. The molecular descriptors  for a dataset of BACE inhibitors  were generated  using RDKit and Mordred. Data normalization and feature selection techniques, such as scaling, variance threshold, and Principal Component Analysis (PCA) were applied. Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN) were then used to train the datasets and eventuall ly used for predicting 'Ki' values. Model evaluation metrics, including Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared were calculated for both neural network models. The performance of the deep learning models are described  below.
-MODEL	MSE	MAE	RMSE	R-squared
-CNN	2.51	1.30	1.58	0.37
-RNN	3.91	1.41	1.98	0.02
+| MODEL | MSE  | MAE  | RMSE | R-squared |
+|-------|------|------|------|-----------|
+| CNN   | 2.51 | 1.30 | 1.58 | 0.37      |
+| RNN   | 3.91 | 1.41 | 1.98 | 0.02      |
 
 LazyRegressor was employed for further evaluation of the predictive models. ExtraTressRegressor performed best with 72% R-squared value and 1.06 RMSE value. This was eventually used to build the BACE model since it performs better than the deep learning models.
 
